@@ -1,0 +1,957 @@
+[
+  {
+    "utterance number": 44,
+    "timestamp": "2023-03-22",
+    "speaker": "MM",
+    "sentences": [
+      {
+        "sentence number": 1,
+        "text": " Okay",
+        "polarity": 0.5,
+        "subjectivity": 0.5
+      },
+      {
+        "sentence number": 2,
+        "text": " Good",
+        "polarity": 0.7,
+        "subjectivity": 0.6000000000000001
+      },
+      {
+        "sentence number": 3,
+        "text": "",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      }
+    ],
+    "polarity": 0.6,
+    "subjectivity": 0.55,
+    "keywords": [
+      [
+        "Good",
+        0.17881754828257995
+      ]
+    ]
+  },
+  {
+    "utterance number": 57,
+    "timestamp": "2023-03-22",
+    "speaker": "WH",
+    "sentences": [
+      {
+        "sentence number": 1,
+        "text": " I didn\u2019t use a nonintegral floating point step",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      },
+      {
+        "sentence number": 2,
+        "text": " It\u2019s a perfectly sensible thing to do",
+        "polarity": 1.0,
+        "subjectivity": 1.0
+      },
+      {
+        "sentence number": 3,
+        "text": "",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      }
+    ],
+    "polarity": 1.0,
+    "subjectivity": 1.0,
+    "keywords": [
+      [
+        "floating point step",
+        0.005401660759706154
+      ],
+      [
+        "nonintegral floating point",
+        0.009001679881101624
+      ],
+      [
+        "point step",
+        0.02541909697430123
+      ],
+      [
+        "nonintegral floating",
+        0.04188746641162499
+      ],
+      [
+        "floating point",
+        0.04188746641162499
+      ],
+      [
+        "step",
+        0.12363091320521931
+      ],
+      [
+        "n\u2019t",
+        0.2005079697193566
+      ],
+      [
+        "nonintegral",
+        0.2005079697193566
+      ],
+      [
+        "floating",
+        0.2005079697193566
+      ],
+      [
+        "point",
+        0.2005079697193566
+      ]
+    ]
+  },
+  {
+    "utterance number": 83,
+    "timestamp": "2023-03-22",
+    "speaker": "MM",
+    "sentences": [
+      {
+        "sentence number": 1,
+        "text": " Sounds fair to me",
+        "polarity": 0.7,
+        "subjectivity": 0.9
+      },
+      {
+        "sentence number": 2,
+        "text": "",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      }
+    ],
+    "polarity": 0.7,
+    "subjectivity": 0.9,
+    "keywords": [
+      [
+        "Sounds fair",
+        0.04940384002065631
+      ],
+      [
+        "Sounds",
+        0.15831692877998726
+      ],
+      [
+        "fair",
+        0.29736558256021506
+      ]
+    ]
+  },
+  {
+    "utterance number": 115,
+    "timestamp": "2023-03-22",
+    "speaker": "KG",
+    "sentences": [
+      {
+        "sentence number": 1,
+        "text": " I\u2019m happy to include that",
+        "polarity": 0.8,
+        "subjectivity": 1.0
+      },
+      {
+        "sentence number": 2,
+        "text": " It so happens I\u2019ve already written the spec text for it",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      },
+      {
+        "sentence number": 3,
+        "text": " So I\u2019m happy to add that to the proposal",
+        "polarity": 0.8,
+        "subjectivity": 1.0
+      },
+      {
+        "sentence number": 4,
+        "text": "",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      }
+    ],
+    "polarity": 0.8,
+    "subjectivity": 1.0,
+    "keywords": [
+      [
+        "happy to include",
+        0.06694397812766982
+      ],
+      [
+        "happy",
+        0.15389342907766593
+      ],
+      [
+        "include",
+        0.2038542769622493
+      ],
+      [
+        "happy to add",
+        0.2102312809081286
+      ],
+      [
+        "\u2019ve already written",
+        0.28461618066910277
+      ],
+      [
+        "written the spec",
+        0.28461618066910277
+      ],
+      [
+        "spec text",
+        0.28461618066910277
+      ],
+      [
+        "proposal",
+        0.4533135999375753
+      ],
+      [
+        "\u2019ve",
+        0.47069880880967624
+      ],
+      [
+        "written",
+        0.47069880880967624
+      ]
+    ]
+  },
+  {
+    "utterance number": 131,
+    "timestamp": "2023-03-22",
+    "speaker": "KG",
+    "sentences": [
+      {
+        "sentence number": 1,
+        "text": " Sounds good",
+        "polarity": 0.7,
+        "subjectivity": 0.6000000000000001
+      }
+    ],
+    "polarity": 0.7,
+    "subjectivity": 0.6000000000000001,
+    "keywords": [
+      [
+        "Sounds good",
+        0.02570861714399338
+      ],
+      [
+        "Sounds",
+        0.15831692877998726
+      ],
+      [
+        "good",
+        0.15831692877998726
+      ]
+    ]
+  },
+  {
+    "utterance number": 151,
+    "timestamp": "2023-03-22",
+    "speaker": "KG",
+    "sentences": [
+      {
+        "sentence number": 1,
+        "text": " That sounds good to me",
+        "polarity": 0.7,
+        "subjectivity": 0.6000000000000001
+      },
+      {
+        "sentence number": 2,
+        "text": " hfround is what it was called when I came to this proposal",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      },
+      {
+        "sentence number": 3,
+        "text": " But f16round sounds good to me",
+        "polarity": 0.7,
+        "subjectivity": 0.6000000000000001
+      },
+      {
+        "sentence number": 4,
+        "text": "",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      }
+    ],
+    "polarity": 0.7,
+    "subjectivity": 0.6000000000000001,
+    "keywords": [
+      [
+        "sounds good",
+        0.03680988434436904
+      ],
+      [
+        "good",
+        0.11447280686613116
+      ],
+      [
+        "proposal",
+        0.13690089622781554
+      ],
+      [
+        "sounds",
+        0.1497551014939575
+      ],
+      [
+        "hfround",
+        0.19861310018350192
+      ],
+      [
+        "called",
+        0.19861310018350192
+      ]
+    ]
+  },
+  {
+    "utterance number": 162,
+    "timestamp": "2023-03-22",
+    "speaker": "CDA",
+    "sentences": [
+      {
+        "sentence number": 1,
+        "text": " Can you stop the screen share and somebody can kindly pull up the notes to review the conclusion and summary",
+        "polarity": 0.6,
+        "subjectivity": 0.9
+      }
+    ],
+    "polarity": 0.6,
+    "subjectivity": 0.9,
+    "keywords": [
+      [
+        "conclusion and summary",
+        0.00899321792126428
+      ],
+      [
+        "stop the screen",
+        0.013527995261974615
+      ],
+      [
+        "screen share",
+        0.013527995261974615
+      ],
+      [
+        "kindly pull",
+        0.013527995261974615
+      ],
+      [
+        "notes to review",
+        0.013527995261974615
+      ],
+      [
+        "review the conclusion",
+        0.013527995261974615
+      ],
+      [
+        "summary",
+        0.0771485953923296
+      ],
+      [
+        "stop",
+        0.1155310835876123
+      ],
+      [
+        "screen",
+        0.1155310835876123
+      ],
+      [
+        "share",
+        0.1155310835876123
+      ]
+    ]
+  },
+  {
+    "utterance number": 163,
+    "timestamp": "2023-03-22",
+    "speaker": "JMN",
+    "sentences": [
+      {
+        "sentence number": 1,
+        "text": " My name is Jesse Alama",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      },
+      {
+        "sentence number": 2,
+        "text": " From Igalia, working in partnership with Bloomberg",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      },
+      {
+        "sentence number": 3,
+        "text": " Glad we had a couple of mathematics talks",
+        "polarity": 0.5,
+        "subjectivity": 1.0
+      },
+      {
+        "sentence number": 4,
+        "text": " I\u2019m hoping most of you have your mathematics hats on",
+        "polarity": 0.5,
+        "subjectivity": 0.5
+      },
+      {
+        "sentence number": 5,
+        "text": " This is another one about that",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      },
+      {
+        "sentence number": 6,
+        "text": " This is a Stage 1 update",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      },
+      {
+        "sentence number": 7,
+        "text": " What I\u2019m looking for is to get some input and feedback",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      },
+      {
+        "sentence number": 8,
+        "text": " Sketch some of the use cases for decimal",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      },
+      {
+        "sentence number": 9,
+        "text": " I\u2019ll give you a bit of a sketch from the design space and dig into one of the dimensions from design space and sketch a path forward",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      },
+      {
+        "sentence number": 10,
+        "text": " Again, no requests for permission to do anything, just to warm you up and get some feedback",
+        "polarity": 0.6,
+        "subjectivity": 0.6
+      },
+      {
+        "sentence number": 11,
+        "text": "",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      }
+    ],
+    "polarity": 0.5333333333333333,
+    "subjectivity": 0.7000000000000001,
+    "keywords": [
+      [
+        "Jesse Alama",
+        0.005391831470436442
+      ],
+      [
+        "Alama",
+        0.06649532452678068
+      ],
+      [
+        "Jesse",
+        0.08065101677229528
+      ],
+      [
+        "partnership with Bloomberg",
+        0.1045477498009657
+      ],
+      [
+        "Igalia",
+        0.19832809592583114
+      ],
+      [
+        "Bloomberg",
+        0.19832809592583114
+      ],
+      [
+        "Sketch",
+        0.22458792457764357
+      ],
+      [
+        "working in partnership",
+        0.23701020641174014
+      ],
+      [
+        "feedback",
+        0.2721977432224011
+      ],
+      [
+        "mathematics",
+        0.2760157185111498
+      ]
+    ]
+  },
+  {
+    "utterance number": 197,
+    "timestamp": "2023-03-22",
+    "speaker": "JMN",
+    "sentences": [
+      {
+        "sentence number": 1,
+        "text": " Sounds good",
+        "polarity": 0.7,
+        "subjectivity": 0.6000000000000001
+      },
+      {
+        "sentence number": 2,
+        "text": "",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      }
+    ],
+    "polarity": 0.7,
+    "subjectivity": 0.6000000000000001,
+    "keywords": [
+      [
+        "Sounds good",
+        0.02570861714399338
+      ],
+      [
+        "Sounds",
+        0.15831692877998726
+      ],
+      [
+        "good",
+        0.15831692877998726
+      ]
+    ]
+  },
+  {
+    "utterance number": 208,
+    "timestamp": "2023-03-22",
+    "speaker": "KG",
+    "sentences": [
+      {
+        "sentence number": 1,
+        "text": " Yes",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      },
+      {
+        "sentence number": 2,
+        "text": " I very strongly support having regex escape method",
+        "polarity": 0.5633333333333334,
+        "subjectivity": 0.9533333333333333
+      },
+      {
+        "sentence number": 3,
+        "text": " It\u2019s gotten trickier with v-mode regexes, because v-mode introduces a handful of punctuators that need to be escaped",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      },
+      {
+        "sentence number": 4,
+        "text": " And u mode does not allow unescaped characters \u2013 so we would need to modify those so that they allow those escaped characters as identity escapes",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      },
+      {
+        "sentence number": 5,
+        "text": " But with that change, it is",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      }
+    ],
+    "polarity": 0.5633333333333334,
+    "subjectivity": 0.9533333333333333,
+    "keywords": [
+      [
+        "regex escape method",
+        0.28908560849235715
+      ],
+      [
+        "escaped",
+        0.3208882575292037
+      ],
+      [
+        "v-mode",
+        0.32290078334651817
+      ],
+      [
+        "characters",
+        0.34541320242881945
+      ],
+      [
+        "escape method",
+        0.3454543852016819
+      ],
+      [
+        "strongly support",
+        0.3869042190541645
+      ],
+      [
+        "support having regex",
+        0.3869042190541645
+      ],
+      [
+        "method",
+        0.4173979252873159
+      ],
+      [
+        "regex escape",
+        0.4812624164572476
+      ],
+      [
+        "v-mode regexes",
+        0.4921391682654478
+      ]
+    ]
+  },
+  {
+    "utterance number": 221,
+    "timestamp": "2023-03-22",
+    "speaker": "MM",
+    "sentences": [
+      {
+        "sentence number": 1,
+        "text": " Can I jump in and answer that",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      },
+      {
+        "sentence number": 2,
+        "text": " Now that you clarified that",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      },
+      {
+        "sentence number": 3,
+        "text": " MSL\u2019s template library is an elegant solution",
+        "polarity": 0.5,
+        "subjectivity": 1.0
+      },
+      {
+        "sentence number": 4,
+        "text": " If the substitution value itself is a regex object, then the RegExp object is already a well formed pattern matching and it goes ahead and treats that as composing pattern matching",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      },
+      {
+        "sentence number": 5,
+        "text": " So it\u2019s very nice and powerful that it both does in a way that\u2019s intuitive for both cases",
+        "polarity": 0.54,
+        "subjectivity": 1.0
+      },
+      {
+        "sentence number": 6,
+        "text": " The composition of regex to (",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      },
+      {
+        "sentence number": 7,
+        "text": ") registerer as well as the escaping of untrusted input",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      }
+    ],
+    "polarity": 0.5266666666666667,
+    "subjectivity": 1.0,
+    "keywords": [
+      [
+        "pattern matching",
+        0.13954229653144218
+      ],
+      [
+        "MSL \u2019s template",
+        0.14080105246770044
+      ],
+      [
+        "jump",
+        0.16735947717894054
+      ],
+      [
+        "answer",
+        0.16735947717894054
+      ],
+      [
+        "pattern",
+        0.23355453329173242
+      ],
+      [
+        "matching",
+        0.23355453329173242
+      ],
+      [
+        "formed pattern matching",
+        0.23944846492053004
+      ],
+      [
+        "composing pattern matching",
+        0.23944846492053004
+      ],
+      [
+        "MSL",
+        0.2447758177724539
+      ],
+      [
+        "object",
+        0.25986575298973347
+      ]
+    ]
+  },
+  {
+    "utterance number": 252,
+    "timestamp": "2023-03-22",
+    "speaker": "MM",
+    "sentences": [
+      {
+        "sentence number": 1,
+        "text": " Go forward in the sense of neither one is yet disqualified",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      },
+      {
+        "sentence number": 2,
+        "text": " We have a choice to make, and I would still, even if I\u2019m convinced of the safety of the escape form, I think the template tag form is much superior and I would like to convince everybody of that",
+        "polarity": 0.7,
+        "subjectivity": 0.9
+      }
+    ],
+    "polarity": 0.7,
+    "subjectivity": 0.9,
+    "keywords": [
+      [
+        "template tag form",
+        0.08073876360580284
+      ],
+      [
+        "disqualified",
+        0.10561787888104197
+      ],
+      [
+        "choice to make",
+        0.12106775878681837
+      ],
+      [
+        "forward",
+        0.14533572323085503
+      ],
+      [
+        "sense",
+        0.14533572323085503
+      ],
+      [
+        "template tag",
+        0.15991384681661985
+      ],
+      [
+        "escape form",
+        0.1726304520680934
+      ],
+      [
+        "tag form",
+        0.1726304520680934
+      ],
+      [
+        "form",
+        0.19824218470722305
+      ],
+      [
+        "make",
+        0.29084826087808563
+      ]
+    ]
+  },
+  {
+    "utterance number": 316,
+    "timestamp": "2023-03-22",
+    "speaker": "WH",
+    "sentences": [
+      {
+        "sentence number": 1,
+        "text": " Here\u2019s another example, `a: (type) => (foo())`",
+        "polarity": -0.75,
+        "subjectivity": 1.0
+      },
+      {
+        "sentence number": 2,
+        "text": " You could interpret the arrow type as token soup, because it could be an arrow function with a type followed by a function body",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      },
+      {
+        "sentence number": 3,
+        "text": " Or this could be a label `a:` followed by an arrow function with an argument",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      },
+      {
+        "sentence number": 4,
+        "text": " So here you can\u2019t tell either",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      },
+      {
+        "sentence number": 5,
+        "text": "",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      }
+    ],
+    "polarity": -0.75,
+    "subjectivity": 1.0,
+    "keywords": [
+      [
+        "arrow function",
+        0.11540774781014264
+      ],
+      [
+        "foo",
+        0.12464477257273603
+      ],
+      [
+        "type",
+        0.12882680842894742
+      ],
+      [
+        "arrow",
+        0.14434932200993122
+      ],
+      [
+        "function",
+        0.14434932200993122
+      ],
+      [
+        "arrow type",
+        0.2010058117380266
+      ],
+      [
+        "function body",
+        0.21969072678638005
+      ],
+      [
+        "token soup",
+        0.25742797291108976
+      ],
+      [
+        "soup",
+        0.41593551118834654
+      ],
+      [
+        "body",
+        0.41593551118834654
+      ]
+    ]
+  },
+  {
+    "utterance number": 325,
+    "timestamp": "2023-03-22",
+    "speaker": "RBN",
+    "sentences": [
+      {
+        "sentence number": 1,
+        "text": " I see",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      },
+      {
+        "sentence number": 2,
+        "text": " So the issue is that it\u2019s using member expression and then looking at type parameters",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      },
+      {
+        "sentence number": 3,
+        "text": " Thank you",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      },
+      {
+        "sentence number": 4,
+        "text": " That\u2019s fair",
+        "polarity": 0.7,
+        "subjectivity": 0.9
+      },
+      {
+        "sentence number": 5,
+        "text": "",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      }
+    ],
+    "polarity": 0.7,
+    "subjectivity": 0.9,
+    "keywords": [
+      [
+        "type parameters",
+        0.23338172234549467
+      ],
+      [
+        "member expression",
+        0.35350894161299157
+      ],
+      [
+        "parameters",
+        0.3702539456099092
+      ],
+      [
+        "issue",
+        0.5110573480904945
+      ],
+      [
+        "member",
+        0.5110573480904945
+      ],
+      [
+        "expression",
+        0.5110573480904945
+      ],
+      [
+        "type",
+        0.5110573480904945
+      ],
+      [
+        "fair",
+        0.5121371841744414
+      ]
+    ]
+  },
+  {
+    "utterance number": 339,
+    "timestamp": "2023-03-22",
+    "speaker": "ACE",
+    "sentences": [
+      {
+        "sentence number": 1,
+        "text": " So that\u2019s the presentation",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      },
+      {
+        "sentence number": 2,
+        "text": " It would be great to get people\u2019s thoughts, feedback on if this is a problem, and if it is should we try and see if there\u2019s a way we can solve it",
+        "polarity": 0.8,
+        "subjectivity": 0.75
+      }
+    ],
+    "polarity": 0.8,
+    "subjectivity": 0.75,
+    "keywords": [
+      [
+        "presentation",
+        0.10028582371075691
+      ],
+      [
+        "people \u2019s thoughts",
+        0.11755105063023073
+      ],
+      [
+        "thoughts",
+        0.2790829227183407
+      ],
+      [
+        "feedback",
+        0.2790829227183407
+      ],
+      [
+        "problem",
+        0.2790829227183407
+      ],
+      [
+        "great",
+        0.37689977775222827
+      ],
+      [
+        "people",
+        0.37689977775222827
+      ],
+      [
+        "solve",
+        0.37689977775222827
+      ]
+    ]
+  }
+]

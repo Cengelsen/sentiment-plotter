@@ -1,0 +1,1039 @@
+[
+  {
+    "utterance number": 6,
+    "timestamp": "2023-01-30",
+    "speaker": "RPR",
+    "sentences": [
+      {
+        "sentence number": 1,
+        "text": " I\u2019m happy to do reminders for those at the end of each Section",
+        "polarity": 0.8,
+        "subjectivity": 1.0
+      },
+      {
+        "sentence number": 2,
+        "text": "",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      }
+    ],
+    "polarity": 0.8,
+    "subjectivity": 1.0,
+    "keywords": [
+      [
+        "Section",
+        0.08596317751626563
+      ],
+      [
+        "happy",
+        0.29736558256021506
+      ],
+      [
+        "reminders",
+        0.29736558256021506
+      ],
+      [
+        "end",
+        0.29736558256021506
+      ]
+    ]
+  },
+  {
+    "utterance number": 11,
+    "timestamp": "2023-01-30",
+    "speaker": "USA",
+    "sentences": [
+      {
+        "sentence number": 1,
+        "text": " Perfect",
+        "polarity": 1.0,
+        "subjectivity": 1.0
+      },
+      {
+        "sentence number": 2,
+        "text": " Thank you all",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      },
+      {
+        "sentence number": 3,
+        "text": "",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      }
+    ],
+    "polarity": 1.0,
+    "subjectivity": 1.0,
+    "keywords": [
+      [
+        "Perfect",
+        0.05899937629682816
+      ]
+    ]
+  },
+  {
+    "utterance number": 15,
+    "timestamp": "2023-01-30",
+    "speaker": "CM",
+    "sentences": [
+      {
+        "sentence number": 1,
+        "text": " No news is good news",
+        "polarity": 0.7,
+        "subjectivity": 0.6000000000000001
+      },
+      {
+        "sentence number": 2,
+        "text": "",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      }
+    ],
+    "polarity": 0.7,
+    "subjectivity": 0.6000000000000001,
+    "keywords": [
+      [
+        "good",
+        0.15831692877998726
+      ]
+    ]
+  },
+  {
+    "utterance number": 51,
+    "timestamp": "2023-01-30",
+    "speaker": "MLS",
+    "sentences": [
+      {
+        "sentence number": 1,
+        "text": " Good",
+        "polarity": 0.7,
+        "subjectivity": 0.6000000000000001
+      },
+      {
+        "sentence number": 2,
+        "text": "",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      }
+    ],
+    "polarity": 0.7,
+    "subjectivity": 0.6000000000000001,
+    "keywords": [
+      [
+        "Good",
+        0.04491197687864554
+      ]
+    ]
+  },
+  {
+    "utterance number": 56,
+    "timestamp": "2023-01-30",
+    "speaker": "DE",
+    "sentences": [
+      {
+        "sentence number": 1,
+        "text": " You\u2019re opposed to documenting this because you think it\u2019s inappropriate if anybody ships a stage 3 proposal and that\u2019s kind of on them",
+        "polarity": 0.6,
+        "subjectivity": 0.9
+      },
+      {
+        "sentence number": 2,
+        "text": "",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      }
+    ],
+    "polarity": 0.6,
+    "subjectivity": 0.9,
+    "keywords": [
+      [
+        "ships a stage",
+        0.015380821171891606
+      ],
+      [
+        "\u2019re opposed",
+        0.02570861714399338
+      ],
+      [
+        "opposed to documenting",
+        0.02570861714399338
+      ],
+      [
+        "stage",
+        0.09568045026443411
+      ],
+      [
+        "proposal",
+        0.09568045026443411
+      ],
+      [
+        "\u2019re",
+        0.15831692877998726
+      ],
+      [
+        "opposed",
+        0.15831692877998726
+      ],
+      [
+        "documenting",
+        0.15831692877998726
+      ],
+      [
+        "inappropriate",
+        0.15831692877998726
+      ],
+      [
+        "ships",
+        0.15831692877998726
+      ]
+    ]
+  },
+  {
+    "utterance number": 70,
+    "timestamp": "2023-01-30",
+    "speaker": "JHD",
+    "sentences": [
+      {
+        "sentence number": 1,
+        "text": " Because there\u2019s a lot of folks - a lot of implementations - who do believe that stage 3 is when things should ship and will then ship things in stage 3",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      },
+      {
+        "sentence number": 2,
+        "text": " This is a good way for the items that need it to try to prevent that outcome",
+        "polarity": 0.7,
+        "subjectivity": 0.6000000000000001
+      },
+      {
+        "sentence number": 3,
+        "text": "",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      }
+    ],
+    "polarity": 0.7,
+    "subjectivity": 0.6000000000000001,
+    "keywords": [
+      [
+        "lot of folks",
+        0.02047736367646496
+      ],
+      [
+        "lot of implementations",
+        0.02047736367646496
+      ],
+      [
+        "ship things",
+        0.06515575058887323
+      ],
+      [
+        "lot",
+        0.07178995733936028
+      ],
+      [
+        "stage",
+        0.07178995733936028
+      ],
+      [
+        "things",
+        0.12366301258158387
+      ],
+      [
+        "ship",
+        0.12366301258158387
+      ],
+      [
+        "things in stage",
+        0.1291887732221923
+      ],
+      [
+        "folks",
+        0.1397580964788896
+      ],
+      [
+        "implementations",
+        0.1397580964788896
+      ]
+    ]
+  },
+  {
+    "utterance number": 90,
+    "timestamp": "2023-01-30",
+    "speaker": "MLS",
+    "sentences": [
+      {
+        "sentence number": 1,
+        "text": " Sounds good",
+        "polarity": 0.7,
+        "subjectivity": 0.6000000000000001
+      },
+      {
+        "sentence number": 2,
+        "text": "",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      }
+    ],
+    "polarity": 0.7,
+    "subjectivity": 0.6000000000000001,
+    "keywords": [
+      [
+        "Sounds good",
+        0.02570861714399338
+      ],
+      [
+        "Sounds",
+        0.15831692877998726
+      ],
+      [
+        "good",
+        0.15831692877998726
+      ]
+    ]
+  },
+  {
+    "utterance number": 95,
+    "timestamp": "2023-01-30",
+    "speaker": "YSV",
+    "sentences": [
+      {
+        "sentence number": 1,
+        "text": " Sounds good",
+        "polarity": 0.7,
+        "subjectivity": 0.6000000000000001
+      },
+      {
+        "sentence number": 2,
+        "text": "",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      }
+    ],
+    "polarity": 0.7,
+    "subjectivity": 0.6000000000000001,
+    "keywords": [
+      [
+        "Sounds good",
+        0.02570861714399338
+      ],
+      [
+        "Sounds",
+        0.15831692877998726
+      ],
+      [
+        "good",
+        0.15831692877998726
+      ]
+    ]
+  },
+  {
+    "utterance number": 96,
+    "timestamp": "2023-01-30",
+    "speaker": "SYG",
+    "sentences": [
+      {
+        "sentence number": 1,
+        "text": " It\u2019s good",
+        "polarity": 0.7,
+        "subjectivity": 0.6000000000000001
+      },
+      {
+        "sentence number": 2,
+        "text": "",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      }
+    ],
+    "polarity": 0.7,
+    "subjectivity": 0.6000000000000001,
+    "keywords": [
+      [
+        "good",
+        0.15831692877998726
+      ]
+    ]
+  },
+  {
+    "utterance number": 127,
+    "timestamp": "2023-01-30",
+    "speaker": "MLS",
+    "sentences": [
+      {
+        "sentence number": 1,
+        "text": " I do agree that we often have times where somebody proposes something and no one says anything,, yes or no",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      },
+      {
+        "sentence number": 2,
+        "text": " It is good to have some explicit input, I agree with what CM has to say",
+        "polarity": 0.7,
+        "subjectivity": 0.6000000000000001
+      },
+      {
+        "sentence number": 3,
+        "text": "",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      }
+    ],
+    "polarity": 0.7,
+    "subjectivity": 0.6000000000000001,
+    "keywords": [
+      [
+        "agree",
+        0.23433876543145388
+      ],
+      [
+        "times",
+        0.246550513069643
+      ],
+      [
+        "proposes",
+        0.246550513069643
+      ],
+      [
+        "explicit input",
+        0.2617398023141667
+      ],
+      [
+        "input",
+        0.38997397536695666
+      ],
+      [
+        "good",
+        0.5319420725534505
+      ],
+      [
+        "explicit",
+        0.5319420725534505
+      ]
+    ]
+  },
+  {
+    "utterance number": 132,
+    "timestamp": "2023-01-30",
+    "speaker": "YSV",
+    "sentences": [
+      {
+        "sentence number": 1,
+        "text": " So huge +1 to explicit discussion of both positives and negatives because that means we\u2019ll have more discussion",
+        "polarity": 0.45000000000000007,
+        "subjectivity": 0.7
+      },
+      {
+        "sentence number": 2,
+        "text": " People who aren\u2019t as experienced will feel safer speaking up",
+        "polarity": 0.8,
+        "subjectivity": 0.9
+      },
+      {
+        "sentence number": 3,
+        "text": " And that\u2019s very important",
+        "polarity": 0.52,
+        "subjectivity": 1.0
+      },
+      {
+        "sentence number": 4,
+        "text": "",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      }
+    ],
+    "polarity": 0.555,
+    "subjectivity": 0.825,
+    "keywords": [
+      [
+        "positives and negatives",
+        0.07175261961233008
+      ],
+      [
+        "explicit discussion",
+        0.08940904096592235
+      ],
+      [
+        "discussion",
+        0.15859477016315995
+      ],
+      [
+        "huge",
+        0.16412277786347862
+      ],
+      [
+        "explicit",
+        0.25874478408486645
+      ],
+      [
+        "positives",
+        0.25874478408486645
+      ],
+      [
+        "negatives",
+        0.25874478408486645
+      ],
+      [
+        "\u2019ll",
+        0.25874478408486645
+      ],
+      [
+        "feel safer speaking",
+        0.38425315056733966
+      ],
+      [
+        "People",
+        0.40544467897296155
+      ]
+    ]
+  },
+  {
+    "utterance number": 136,
+    "timestamp": "2023-01-30",
+    "speaker": "DE",
+    "sentences": [
+      {
+        "sentence number": 1,
+        "text": " Okay, perfect",
+        "polarity": 0.75,
+        "subjectivity": 0.75
+      },
+      {
+        "sentence number": 2,
+        "text": " So I will cross reference those rather than inventing my own thing in the text",
+        "polarity": 0.3,
+        "subjectivity": 0.5
+      },
+      {
+        "sentence number": 3,
+        "text": " Does that resolve your concern WH",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      },
+      {
+        "sentence number": 4,
+        "text": "",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      }
+    ],
+    "polarity": 0.525,
+    "subjectivity": 0.625,
+    "keywords": [
+      [
+        "perfect",
+        0.06588837669267192
+      ],
+      [
+        "text",
+        0.4949246952252326
+      ],
+      [
+        "cross",
+        0.68796622281612
+      ],
+      [
+        "reference",
+        0.68796622281612
+      ],
+      [
+        "inventing",
+        0.68796622281612
+      ],
+      [
+        "thing",
+        0.68796622281612
+      ],
+      [
+        "resolve",
+        0.7625957055371981
+      ],
+      [
+        "concern",
+        0.7625957055371981
+      ],
+      [
+        "cross reference",
+        0.8986050855370177
+      ],
+      [
+        "resolve your concern",
+        1.3897843987848642
+      ]
+    ]
+  },
+  {
+    "utterance number": 153,
+    "timestamp": "2023-01-30",
+    "speaker": "DLM",
+    "sentences": [
+      {
+        "sentence number": 1,
+        "text": " Yes, I agree with what Kevin said",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      },
+      {
+        "sentence number": 2,
+        "text": " I think two people is a good number and I also agree with the point that I support advancement is sufficient and someone can optionally provide a reason",
+        "polarity": 0.7,
+        "subjectivity": 0.6000000000000001
+      },
+      {
+        "sentence number": 3,
+        "text": " I don\u2019t think they should be required to provide a reason",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      },
+      {
+        "sentence number": 4,
+        "text": "",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      }
+    ],
+    "polarity": 0.7,
+    "subjectivity": 0.6000000000000001,
+    "keywords": [
+      [
+        "provide a reason",
+        0.045836437472354184
+      ],
+      [
+        "Kevin",
+        0.07276718341719153
+      ],
+      [
+        "agree",
+        0.11656284409849303
+      ],
+      [
+        "reason",
+        0.11824112809485081
+      ],
+      [
+        "optionally provide",
+        0.16694590115988633
+      ],
+      [
+        "provide",
+        0.1775496318677226
+      ],
+      [
+        "good number",
+        0.19376182621946939
+      ],
+      [
+        "support advancement",
+        0.19376182621946939
+      ],
+      [
+        "advancement is sufficient",
+        0.19376182621946939
+      ],
+      [
+        "required to provide",
+        0.39923682799733073
+      ]
+    ]
+  },
+  {
+    "utterance number": 158,
+    "timestamp": "2023-01-30",
+    "speaker": "KG",
+    "sentences": [
+      {
+        "sentence number": 1,
+        "text": " That\u2019s fair",
+        "polarity": 0.7,
+        "subjectivity": 0.9
+      },
+      {
+        "sentence number": 2,
+        "text": "",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      }
+    ],
+    "polarity": 0.7,
+    "subjectivity": 0.9,
+    "keywords": [
+      [
+        "fair",
+        0.15831692877998726
+      ]
+    ]
+  },
+  {
+    "utterance number": 162,
+    "timestamp": "2023-01-30",
+    "speaker": "KG",
+    "sentences": [
+      {
+        "sentence number": 1,
+        "text": " So, DE, before we move on, we should give a chance for anyone who is not fully enthusiastic about this proposal to express nonblocking concerns",
+        "polarity": 0.6,
+        "subjectivity": 0.9
+      },
+      {
+        "sentence number": 2,
+        "text": "",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      }
+    ],
+    "polarity": 0.6,
+    "subjectivity": 0.9,
+    "keywords": [
+      [
+        "express nonblocking concerns",
+        0.0025258761156662004
+      ],
+      [
+        "nonblocking concerns",
+        0.015380821171891606
+      ],
+      [
+        "give a chance",
+        0.02570861714399338
+      ],
+      [
+        "fully enthusiastic",
+        0.02570861714399338
+      ],
+      [
+        "proposal to express",
+        0.02570861714399338
+      ],
+      [
+        "express nonblocking",
+        0.02570861714399338
+      ],
+      [
+        "concerns",
+        0.09568045026443411
+      ],
+      [
+        "move",
+        0.15831692877998726
+      ],
+      [
+        "give",
+        0.15831692877998726
+      ],
+      [
+        "chance",
+        0.15831692877998726
+      ]
+    ]
+  },
+  {
+    "utterance number": 190,
+    "timestamp": "2023-01-30",
+    "speaker": "WH",
+    "sentences": [
+      {
+        "sentence number": 1,
+        "text": " I objected to the inclusion of `__proto__` in the language in the first place",
+        "polarity": 0.25,
+        "subjectivity": 0.3333333333333333
+      },
+      {
+        "sentence number": 2,
+        "text": " I didn\u2019t win that battle",
+        "polarity": 0.8,
+        "subjectivity": 0.4
+      },
+      {
+        "sentence number": 3,
+        "text": " So I fully support this for `__proto__`",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      },
+      {
+        "sentence number": 4,
+        "text": "",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      }
+    ],
+    "polarity": 0.525,
+    "subjectivity": 0.3666666666666667,
+    "keywords": [
+      [
+        "proto",
+        0.06743424344283798
+      ],
+      [
+        "place",
+        0.13763092523581996
+      ],
+      [
+        "win that battle",
+        0.19834029835856337
+      ],
+      [
+        "objected",
+        0.19959610972506966
+      ],
+      [
+        "inclusion",
+        0.19959610972506966
+      ],
+      [
+        "language",
+        0.19959610972506966
+      ],
+      [
+        "n\u2019t win",
+        0.2745408272450236
+      ],
+      [
+        "battle",
+        0.35661877582782714
+      ],
+      [
+        "fully support",
+        0.4518576469178908
+      ],
+      [
+        "n\u2019t",
+        0.4641160561093645
+      ]
+    ]
+  },
+  {
+    "utterance number": 200,
+    "timestamp": "2023-01-30",
+    "speaker": "SYG",
+    "sentences": [
+      {
+        "sentence number": 1,
+        "text": " That\u2019s a fair point",
+        "polarity": 0.7,
+        "subjectivity": 0.9
+      },
+      {
+        "sentence number": 2,
+        "text": "",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      }
+    ],
+    "polarity": 0.7,
+    "subjectivity": 0.9,
+    "keywords": [
+      [
+        "fair point",
+        0.04940384002065631
+      ],
+      [
+        "point",
+        0.15831692877998726
+      ],
+      [
+        "fair",
+        0.29736558256021506
+      ]
+    ]
+  },
+  {
+    "utterance number": 212,
+    "timestamp": "2023-01-30",
+    "speaker": "MM",
+    "sentences": [
+      {
+        "sentence number": 1,
+        "text": " How does it cause \u2013 I can see how a data \u2013 how bad data on fallible code but nonmalicious code can cause object assign assigned to be looked up",
+        "polarity": -0.6999999999999998,
+        "subjectivity": 0.6666666666666666
+      },
+      {
+        "sentence number": 2,
+        "text": " How does it cause it to be invoked",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      },
+      {
+        "sentence number": 3,
+        "text": "",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      }
+    ],
+    "polarity": -0.6999999999999998,
+    "subjectivity": 0.6666666666666666,
+    "keywords": [
+      [
+        "object assign assigned",
+        0.0042542192213185686
+      ],
+      [
+        "object assign",
+        0.02570861714399338
+      ],
+      [
+        "assign assigned",
+        0.02570861714399338
+      ],
+      [
+        "bad data",
+        0.028818579880008327
+      ],
+      [
+        "fallible code",
+        0.028818579880008327
+      ],
+      [
+        "nonmalicious code",
+        0.028818579880008327
+      ],
+      [
+        "data on fallible",
+        0.06716192094522538
+      ],
+      [
+        "code but nonmalicious",
+        0.06716192094522538
+      ],
+      [
+        "data",
+        0.0884660069427631
+      ],
+      [
+        "code",
+        0.0884660069427631
+      ]
+    ]
+  },
+  {
+    "utterance number": 236,
+    "timestamp": "2023-01-30",
+    "speaker": "MM",
+    "sentences": [
+      {
+        "sentence number": 1,
+        "text": " Okay, good",
+        "polarity": 0.6,
+        "subjectivity": 0.55
+      },
+      {
+        "sentence number": 2,
+        "text": "",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      }
+    ],
+    "polarity": 0.6,
+    "subjectivity": 0.55,
+    "keywords": [
+      [
+        "good",
+        0.04491197687864554
+      ]
+    ]
+  },
+  {
+    "utterance number": 241,
+    "timestamp": "2023-01-30",
+    "speaker": "SYG",
+    "sentences": [
+      {
+        "sentence number": 1,
+        "text": " That would be fascinating to learn one way or another if there are",
+        "polarity": 0.7,
+        "subjectivity": 0.8500000000000001
+      },
+      {
+        "sentence number": 2,
+        "text": " But part of the security kind of calculus, I guess, is security is always a moving target",
+        "polarity": 0.6,
+        "subjectivity": 0.9
+      },
+      {
+        "sentence number": 3,
+        "text": " So I guess if we buy some time with this because it has to \u2013",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      }
+    ],
+    "polarity": 0.6499999999999999,
+    "subjectivity": 0.875,
+    "keywords": [
+      [
+        "fascinating to learn",
+        0.08453102849181783
+      ],
+      [
+        "fascinating",
+        0.2791817888672527
+      ],
+      [
+        "learn",
+        0.2791817888672527
+      ],
+      [
+        "guess",
+        0.28385574263442187
+      ],
+      [
+        "security",
+        0.32311955729561576
+      ],
+      [
+        "kind of calculus",
+        0.3281371084378848
+      ],
+      [
+        "moving target",
+        0.3281371084378848
+      ],
+      [
+        "calculus",
+        0.4307356489172329
+      ],
+      [
+        "target",
+        0.4307356489172329
+      ],
+      [
+        "part",
+        0.5735900629737213
+      ]
+    ]
+  },
+  {
+    "utterance number": 298,
+    "timestamp": "2023-01-30",
+    "speaker": "RGN",
+    "sentences": [
+      {
+        "sentence number": 1,
+        "text": " Good to proceed",
+        "polarity": 0.7,
+        "subjectivity": 0.6000000000000001
+      },
+      {
+        "sentence number": 2,
+        "text": "",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      }
+    ],
+    "polarity": 0.7,
+    "subjectivity": 0.6000000000000001,
+    "keywords": [
+      [
+        "Good to proceed",
+        0.02570861714399338
+      ],
+      [
+        "Good",
+        0.15831692877998726
+      ],
+      [
+        "proceed",
+        0.15831692877998726
+      ]
+    ]
+  }
+]

@@ -1,0 +1,220 @@
+[
+  {
+    "utterance number": 82,
+    "timestamp": "2023-02-01",
+    "speaker": "RBN",
+    "sentences": [
+      {
+        "sentence number": 1,
+        "text": " This is a good point",
+        "polarity": 0.7,
+        "subjectivity": 0.6000000000000001
+      },
+      {
+        "sentence number": 2,
+        "text": "",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      }
+    ],
+    "polarity": 0.7,
+    "subjectivity": 0.6000000000000001,
+    "keywords": [
+      [
+        "good point",
+        0.04940384002065631
+      ],
+      [
+        "point",
+        0.15831692877998726
+      ],
+      [
+        "good",
+        0.29736558256021506
+      ]
+    ]
+  },
+  {
+    "utterance number": 110,
+    "timestamp": "2023-02-01",
+    "speaker": "WH",
+    "sentences": [
+      {
+        "sentence number": 1,
+        "text": " I don\u2019t think that\u2019s a good line of discussion to proceed into",
+        "polarity": 0.7,
+        "subjectivity": 0.6000000000000001
+      },
+      {
+        "sentence number": 2,
+        "text": "",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      }
+    ],
+    "polarity": 0.7,
+    "subjectivity": 0.6000000000000001,
+    "keywords": [
+      [
+        "good line",
+        0.09700399286574239
+      ],
+      [
+        "line of discussion",
+        0.09700399286574239
+      ],
+      [
+        "discussion to proceed",
+        0.09700399286574239
+      ],
+      [
+        "n\u2019t",
+        0.29736558256021506
+      ],
+      [
+        "good",
+        0.29736558256021506
+      ],
+      [
+        "line",
+        0.29736558256021506
+      ],
+      [
+        "discussion",
+        0.29736558256021506
+      ],
+      [
+        "proceed",
+        0.29736558256021506
+      ]
+    ]
+  },
+  {
+    "utterance number": 130,
+    "timestamp": "2023-02-01",
+    "speaker": "MM",
+    "sentences": [
+      {
+        "sentence number": 1,
+        "text": " That\u2019s a fair characterization",
+        "polarity": 0.7,
+        "subjectivity": 0.9
+      },
+      {
+        "sentence number": 2,
+        "text": " I want to endorse the entirety of your characterization",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      },
+      {
+        "sentence number": 3,
+        "text": "",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      }
+    ],
+    "polarity": 0.7,
+    "subjectivity": 0.9,
+    "keywords": [
+      [
+        "fair characterization",
+        0.08066235077702553
+      ],
+      [
+        "characterization",
+        0.14587031701600586
+      ],
+      [
+        "fair",
+        0.25584912197094006
+      ],
+      [
+        "endorse the entirety",
+        0.42082946769804974
+      ],
+      [
+        "endorse",
+        0.544229518153821
+      ],
+      [
+        "entirety",
+        0.544229518153821
+      ]
+    ]
+  },
+  {
+    "utterance number": 150,
+    "timestamp": "2023-02-01",
+    "speaker": "WH",
+    "sentences": [
+      {
+        "sentence number": 1,
+        "text": " I don\u2019t disagree with you",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      },
+      {
+        "sentence number": 2,
+        "text": " I think that out of the syntax options we have, what you have chosen may be the best one",
+        "polarity": 1.0,
+        "subjectivity": 0.3
+      },
+      {
+        "sentence number": 3,
+        "text": " I just want to understand the confusion and its consequences a bit more before approving it",
+        "polarity": 0.5,
+        "subjectivity": 0.5
+      },
+      {
+        "sentence number": 4,
+        "text": "",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      }
+    ],
+    "polarity": 0.75,
+    "subjectivity": 0.4,
+    "keywords": [
+      [
+        "n\u2019t disagree",
+        0.027581485432184485
+      ],
+      [
+        "n\u2019t",
+        0.16383273847958243
+      ],
+      [
+        "disagree",
+        0.16383273847958243
+      ],
+      [
+        "syntax options",
+        0.19613242932716538
+      ],
+      [
+        "understand the confusion",
+        0.3295258815075752
+      ],
+      [
+        "consequences a bit",
+        0.3295258815075752
+      ],
+      [
+        "syntax",
+        0.4049347717850166
+      ],
+      [
+        "options",
+        0.4049347717850166
+      ],
+      [
+        "chosen",
+        0.4049347717850166
+      ],
+      [
+        "understand",
+        0.49784754196738834
+      ]
+    ]
+  }
+]

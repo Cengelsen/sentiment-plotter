@@ -1,0 +1,868 @@
+[
+  {
+    "utterance number": 1,
+    "timestamp": "2023-02-01",
+    "speaker": "YK",
+    "sentences": [
+      {
+        "sentence number": 1,
+        "text": " the champion group has grown, in good ways",
+        "polarity": 0.7,
+        "subjectivity": 0.6000000000000001
+      },
+      {
+        "sentence number": 2,
+        "text": "",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      }
+    ],
+    "polarity": 0.7,
+    "subjectivity": 0.6000000000000001,
+    "keywords": [
+      [
+        "group has grown",
+        0.04940384002065631
+      ],
+      [
+        "champion group",
+        0.09700399286574239
+      ],
+      [
+        "grown",
+        0.15831692877998726
+      ],
+      [
+        "champion",
+        0.29736558256021506
+      ],
+      [
+        "group",
+        0.29736558256021506
+      ],
+      [
+        "good",
+        0.29736558256021506
+      ]
+    ]
+  },
+  {
+    "utterance number": 19,
+    "timestamp": "2023-02-01",
+    "speaker": "YK",
+    "sentences": [
+      {
+        "sentence number": 1,
+        "text": " TL;DR decorators are popular",
+        "polarity": 0.6,
+        "subjectivity": 0.9
+      }
+    ],
+    "polarity": 0.6,
+    "subjectivity": 0.9,
+    "keywords": [
+      [
+        "decorators are popular",
+        0.04940384002065631
+      ],
+      [
+        "popular",
+        0.15831692877998726
+      ],
+      [
+        "decorators",
+        0.29736558256021506
+      ]
+    ]
+  },
+  {
+    "utterance number": 121,
+    "timestamp": "2023-02-01",
+    "speaker": "AWB",
+    "sentences": [
+      {
+        "sentence number": 1,
+        "text": " we know semantically, that static fields/properties become own properties of the constructor properties",
+        "polarity": 0.55,
+        "subjectivity": 0.95
+      }
+    ],
+    "polarity": 0.55,
+    "subjectivity": 0.95,
+    "keywords": [
+      [
+        "static fields",
+        0.015947706066152048
+      ],
+      [
+        "constructor properties",
+        0.04182683747999633
+      ],
+      [
+        "properties",
+        0.08789333660563434
+      ],
+      [
+        "semantically",
+        0.103096657787716
+      ],
+      [
+        "fields",
+        0.103096657787716
+      ],
+      [
+        "static",
+        0.15225875770903138
+      ],
+      [
+        "constructor",
+        0.15225875770903138
+      ]
+    ]
+  },
+  {
+    "utterance number": 123,
+    "timestamp": "2023-02-01",
+    "speaker": "AWB",
+    "sentences": [
+      {
+        "sentence number": 1,
+        "text": " we are defining properties, so the two questions are when is the own property created on the constructor object",
+        "polarity": 0.6,
+        "subjectivity": 1.0
+      },
+      {
+        "sentence number": 2,
+        "text": " And when is the value computed that is the value of the property",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      },
+      {
+        "sentence number": 3,
+        "text": "",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      }
+    ],
+    "polarity": 0.6,
+    "subjectivity": 1.0,
+    "keywords": [
+      [
+        "defining properties",
+        0.012165924194019875
+      ],
+      [
+        "constructor object",
+        0.012165924194019875
+      ],
+      [
+        "property created",
+        0.02644562198662052
+      ],
+      [
+        "properties",
+        0.09734896580520311
+      ],
+      [
+        "object",
+        0.09734896580520311
+      ],
+      [
+        "property",
+        0.10433398411068699
+      ],
+      [
+        "defining",
+        0.12347017160866493
+      ],
+      [
+        "questions",
+        0.12347017160866493
+      ],
+      [
+        "created",
+        0.12347017160866493
+      ],
+      [
+        "constructor",
+        0.12347017160866493
+      ]
+    ]
+  },
+  {
+    "utterance number": 126,
+    "timestamp": "2023-02-01",
+    "speaker": "YK",
+    "sentences": [
+      {
+        "sentence number": 1,
+        "text": " it is impossible to explain these seperately",
+        "polarity": -0.6666666666666666,
+        "subjectivity": 1.0
+      }
+    ],
+    "polarity": -0.6666666666666666,
+    "subjectivity": 1.0,
+    "keywords": [
+      [
+        "explain these seperately",
+        0.04940384002065631
+      ],
+      [
+        "impossible to explain",
+        0.09700399286574239
+      ],
+      [
+        "seperately",
+        0.15831692877998726
+      ],
+      [
+        "impossible",
+        0.29736558256021506
+      ],
+      [
+        "explain",
+        0.29736558256021506
+      ]
+    ]
+  },
+  {
+    "utterance number": 164,
+    "timestamp": "2023-02-01",
+    "speaker": "WH",
+    "sentences": [
+      {
+        "sentence number": 1,
+        "text": " even a snapshot is dangerous, as it could give access to mutable state",
+        "polarity": -0.6,
+        "subjectivity": 0.9
+      },
+      {
+        "sentence number": 2,
+        "text": "",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      }
+    ],
+    "polarity": -0.6,
+    "subjectivity": 0.9,
+    "keywords": [
+      [
+        "snapshot is dangerous",
+        0.04940384002065631
+      ],
+      [
+        "mutable state",
+        0.04940384002065631
+      ],
+      [
+        "give access",
+        0.09700399286574239
+      ],
+      [
+        "access to mutable",
+        0.09700399286574239
+      ],
+      [
+        "dangerous",
+        0.15831692877998726
+      ],
+      [
+        "state",
+        0.15831692877998726
+      ],
+      [
+        "snapshot",
+        0.29736558256021506
+      ],
+      [
+        "give",
+        0.29736558256021506
+      ],
+      [
+        "access",
+        0.29736558256021506
+      ],
+      [
+        "mutable",
+        0.29736558256021506
+      ]
+    ]
+  },
+  {
+    "utterance number": 197,
+    "timestamp": "2023-02-01",
+    "speaker": "MM",
+    "sentences": [
+      {
+        "sentence number": 1,
+        "text": " fleshing out your persective is wonderful, fleshing out mutiple is also wonderful",
+        "polarity": 1.0,
+        "subjectivity": 1.0
+      }
+    ],
+    "polarity": 1.0,
+    "subjectivity": 1.0,
+    "keywords": [
+      [
+        "fleshing out mutiple",
+        0.019559944348339953
+      ],
+      [
+        "fleshing",
+        0.04784022513221706
+      ],
+      [
+        "persective is wonderful",
+        0.07536555019212773
+      ],
+      [
+        "wonderful",
+        0.07915846438999363
+      ],
+      [
+        "persective",
+        0.2005079697193566
+      ],
+      [
+        "mutiple",
+        0.2005079697193566
+      ]
+    ]
+  },
+  {
+    "utterance number": 265,
+    "timestamp": "2023-02-01",
+    "speaker": "DE",
+    "sentences": [
+      {
+        "sentence number": 1,
+        "text": " I\u2019m really impressed by your work and excited about it",
+        "polarity": 0.6875,
+        "subjectivity": 0.875
+      },
+      {
+        "sentence number": 2,
+        "text": "",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      }
+    ],
+    "polarity": 0.6875,
+    "subjectivity": 0.875,
+    "keywords": [
+      [
+        "work and excited",
+        0.09700399286574239
+      ],
+      [
+        "impressed",
+        0.29736558256021506
+      ],
+      [
+        "work",
+        0.29736558256021506
+      ],
+      [
+        "excited",
+        0.29736558256021506
+      ]
+    ]
+  },
+  {
+    "utterance number": 283,
+    "timestamp": "2023-02-01",
+    "speaker": "RPR",
+    "sentences": [
+      {
+        "sentence number": 1,
+        "text": " Yes",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      },
+      {
+        "sentence number": 2,
+        "text": " From the JITSI people are choosing to thumbs up",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      },
+      {
+        "sentence number": 3,
+        "text": " Ben Neumann, CZW, Dan, Mathieu Hofman, HAX, ABO",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      },
+      {
+        "sentence number": 4,
+        "text": " I think we had about 7 messages of support during the discussion",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      },
+      {
+        "sentence number": 5,
+        "text": " I would say Justin you have struck gold here",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      },
+      {
+        "sentence number": 6,
+        "text": " This is very enthusiastic support for Stage 1",
+        "polarity": 0.78,
+        "subjectivity": 1.0
+      },
+      {
+        "sentence number": 7,
+        "text": " Congratulations",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      },
+      {
+        "sentence number": 8,
+        "text": "",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      }
+    ],
+    "polarity": 0.78,
+    "subjectivity": 1.0,
+    "keywords": [
+      [
+        "Mathieu Hofman",
+        0.10280771952494784
+      ],
+      [
+        "Ben Neumann",
+        0.1946024673962963
+      ],
+      [
+        "CZW",
+        0.19729654074101244
+      ],
+      [
+        "Dan",
+        0.19729654074101244
+      ],
+      [
+        "HAX",
+        0.19729654074101244
+      ],
+      [
+        "ABO",
+        0.19729654074101244
+      ],
+      [
+        "JITSI people",
+        0.21862855279904547
+      ],
+      [
+        "Neumann",
+        0.3053254206846729
+      ],
+      [
+        "Mathieu",
+        0.3053254206846729
+      ],
+      [
+        "Hofman",
+        0.3053254206846729
+      ]
+    ]
+  },
+  {
+    "utterance number": 287,
+    "timestamp": "2023-02-01",
+    "speaker": "JRL",
+    "sentences": [
+      {
+        "sentence number": 1,
+        "text": " Okay",
+        "polarity": 0.5,
+        "subjectivity": 0.5
+      },
+      {
+        "sentence number": 2,
+        "text": " Happy to work on that",
+        "polarity": 0.8,
+        "subjectivity": 1.0
+      },
+      {
+        "sentence number": 3,
+        "text": " We haven\u2019t written any spec text yet",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      },
+      {
+        "sentence number": 4,
+        "text": " But that would come as part of the Stage 1, Stage 2",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      }
+    ],
+    "polarity": 0.65,
+    "subjectivity": 0.75,
+    "keywords": [
+      [
+        "Stage",
+        0.18458122734459928
+      ],
+      [
+        "Happy to work",
+        0.3440860278446039
+      ],
+      [
+        "Happy",
+        0.4395831104840879
+      ],
+      [
+        "work",
+        0.582369971464719
+      ],
+      [
+        "n\u2019t",
+        0.6701459275077921
+      ],
+      [
+        "written",
+        0.6701459275077921
+      ],
+      [
+        "spec",
+        0.6701459275077921
+      ],
+      [
+        "text",
+        0.6701459275077921
+      ],
+      [
+        "part",
+        0.7134492831780704
+      ],
+      [
+        "n\u2019t written",
+        0.8151968561782682
+      ]
+    ]
+  },
+  {
+    "utterance number": 327,
+    "timestamp": "2023-02-01",
+    "speaker": "DE",
+    "sentences": [
+      {
+        "sentence number": 1,
+        "text": " Yeah",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      },
+      {
+        "sentence number": 2,
+        "text": " Anybody want to campaign a proposal, I would be happy to work with you on that",
+        "polarity": 0.8,
+        "subjectivity": 1.0
+      },
+      {
+        "sentence number": 3,
+        "text": "",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      }
+    ],
+    "polarity": 0.8,
+    "subjectivity": 1.0,
+    "keywords": [
+      [
+        "Yeah",
+        0.05899937629682816
+      ],
+      [
+        "campaign a proposal",
+        0.18075564686791562
+      ],
+      [
+        "happy to work",
+        0.2766850298235749
+      ],
+      [
+        "proposal",
+        0.32883716426354986
+      ],
+      [
+        "campaign",
+        0.46553351027698087
+      ],
+      [
+        "happy",
+        0.46553351027698087
+      ],
+      [
+        "work",
+        0.46553351027698087
+      ]
+    ]
+  },
+  {
+    "utterance number": 385,
+    "timestamp": "2023-02-01",
+    "speaker": "RPR",
+    "sentences": [
+      {
+        "sentence number": 1,
+        "text": " [Surveyed the committee for objectors] Still good",
+        "polarity": 0.7,
+        "subjectivity": 0.6000000000000001
+      },
+      {
+        "sentence number": 2,
+        "text": "",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      }
+    ],
+    "polarity": 0.7,
+    "subjectivity": 0.6000000000000001,
+    "keywords": [
+      [
+        "Surveyed the committee",
+        0.026233073037508336
+      ],
+      [
+        "committee for objectors",
+        0.04940384002065631
+      ],
+      [
+        "Surveyed",
+        0.08596317751626563
+      ],
+      [
+        "objectors",
+        0.15831692877998726
+      ],
+      [
+        "good",
+        0.15831692877998726
+      ],
+      [
+        "committee",
+        0.29736558256021506
+      ]
+    ]
+  },
+  {
+    "utterance number": 479,
+    "timestamp": "2023-02-01",
+    "speaker": "RBN",
+    "sentences": [
+      {
+        "sentence number": 1,
+        "text": " This is a good point",
+        "polarity": 0.7,
+        "subjectivity": 0.6000000000000001
+      },
+      {
+        "sentence number": 2,
+        "text": "",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      }
+    ],
+    "polarity": 0.7,
+    "subjectivity": 0.6000000000000001,
+    "keywords": [
+      [
+        "good point",
+        0.04940384002065631
+      ],
+      [
+        "point",
+        0.15831692877998726
+      ],
+      [
+        "good",
+        0.29736558256021506
+      ]
+    ]
+  },
+  {
+    "utterance number": 507,
+    "timestamp": "2023-02-01",
+    "speaker": "WH",
+    "sentences": [
+      {
+        "sentence number": 1,
+        "text": " I don\u2019t think that\u2019s a good line of discussion to proceed into",
+        "polarity": 0.7,
+        "subjectivity": 0.6000000000000001
+      },
+      {
+        "sentence number": 2,
+        "text": "",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      }
+    ],
+    "polarity": 0.7,
+    "subjectivity": 0.6000000000000001,
+    "keywords": [
+      [
+        "good line",
+        0.09700399286574239
+      ],
+      [
+        "line of discussion",
+        0.09700399286574239
+      ],
+      [
+        "discussion to proceed",
+        0.09700399286574239
+      ],
+      [
+        "n\u2019t",
+        0.29736558256021506
+      ],
+      [
+        "good",
+        0.29736558256021506
+      ],
+      [
+        "line",
+        0.29736558256021506
+      ],
+      [
+        "discussion",
+        0.29736558256021506
+      ],
+      [
+        "proceed",
+        0.29736558256021506
+      ]
+    ]
+  },
+  {
+    "utterance number": 527,
+    "timestamp": "2023-02-01",
+    "speaker": "MM",
+    "sentences": [
+      {
+        "sentence number": 1,
+        "text": " That\u2019s a fair characterization",
+        "polarity": 0.7,
+        "subjectivity": 0.9
+      },
+      {
+        "sentence number": 2,
+        "text": " I want to endorse the entirety of your characterization",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      },
+      {
+        "sentence number": 3,
+        "text": "",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      }
+    ],
+    "polarity": 0.7,
+    "subjectivity": 0.9,
+    "keywords": [
+      [
+        "fair characterization",
+        0.08066235077702553
+      ],
+      [
+        "characterization",
+        0.14587031701600586
+      ],
+      [
+        "fair",
+        0.25584912197094006
+      ],
+      [
+        "endorse the entirety",
+        0.42082946769804974
+      ],
+      [
+        "endorse",
+        0.544229518153821
+      ],
+      [
+        "entirety",
+        0.544229518153821
+      ]
+    ]
+  },
+  {
+    "utterance number": 547,
+    "timestamp": "2023-02-01",
+    "speaker": "WH",
+    "sentences": [
+      {
+        "sentence number": 1,
+        "text": " I don\u2019t disagree with you",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      },
+      {
+        "sentence number": 2,
+        "text": " I think that out of the syntax options we have, what you have chosen may be the best one",
+        "polarity": 1.0,
+        "subjectivity": 0.3
+      },
+      {
+        "sentence number": 3,
+        "text": " I just want to understand the confusion and its consequences a bit more before approving it",
+        "polarity": 0.5,
+        "subjectivity": 0.5
+      },
+      {
+        "sentence number": 4,
+        "text": "",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      }
+    ],
+    "polarity": 0.75,
+    "subjectivity": 0.4,
+    "keywords": [
+      [
+        "n\u2019t disagree",
+        0.027581485432184485
+      ],
+      [
+        "n\u2019t",
+        0.16383273847958243
+      ],
+      [
+        "disagree",
+        0.16383273847958243
+      ],
+      [
+        "syntax options",
+        0.19613242932716538
+      ],
+      [
+        "understand the confusion",
+        0.3295258815075752
+      ],
+      [
+        "consequences a bit",
+        0.3295258815075752
+      ],
+      [
+        "syntax",
+        0.4049347717850166
+      ],
+      [
+        "options",
+        0.4049347717850166
+      ],
+      [
+        "chosen",
+        0.4049347717850166
+      ],
+      [
+        "understand",
+        0.49784754196738834
+      ]
+    ]
+  }
+]

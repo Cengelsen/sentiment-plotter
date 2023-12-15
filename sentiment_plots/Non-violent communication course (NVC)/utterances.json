@@ -1,0 +1,994 @@
+[
+  {
+    "utterance number": 1,
+    "timestamp": "2023-03-23",
+    "speaker": "RPR",
+    "sentences": [
+      {
+        "sentence number": 1,
+        "text": " This was not on the agenda because I forgot",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      },
+      {
+        "sentence number": 2,
+        "text": " We have budgets that we had reserved from ECMA for the nonviolent communication course (NVC)",
+        "polarity": 0.4,
+        "subjectivity": 0.6
+      },
+      {
+        "sentence number": 3,
+        "text": " There were requests from ExeCom",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      },
+      {
+        "sentence number": 4,
+        "text": " We haven\u2019t done all the items that were asked from that",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      },
+      {
+        "sentence number": 5,
+        "text": " As it stands, at the next ExeCom meeting happening in three weeks time, we are planning to withdraw our funding request, unless someone valiant wants to step up and really do the work for arranging that",
+        "polarity": 0.13333333333333333,
+        "subjectivity": 0.10000000000000002
+      },
+      {
+        "sentence number": 6,
+        "text": "",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      }
+    ],
+    "polarity": 0.2,
+    "subjectivity": 0.22499999999999998,
+    "keywords": [
+      [
+        "reserved from ECMA",
+        0.09532490715040515
+      ],
+      [
+        "forgot",
+        0.12592637704345377
+      ],
+      [
+        "NVC",
+        0.14410338567306788
+      ],
+      [
+        "agenda",
+        0.16394466725951728
+      ],
+      [
+        "nonviolent communication",
+        0.19636060744829292
+      ],
+      [
+        "ECMA",
+        0.21481633181153767
+      ],
+      [
+        "ExeCom",
+        0.2506299094541945
+      ],
+      [
+        "ExeCom meeting happening",
+        0.40501889689352977
+      ],
+      [
+        "budgets",
+        0.40513161117949376
+      ],
+      [
+        "reserved",
+        0.40513161117949376
+      ]
+    ]
+  },
+  {
+    "utterance number": 2,
+    "timestamp": "2023-03-23",
+    "speaker": "DE",
+    "sentences": [
+      {
+        "sentence number": 1,
+        "text": " The work of arranging it means putting an item on the agenda for this meeting and getting two-thirds support of the committee for continuing it after having presented the syllabus",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      },
+      {
+        "sentence number": 2,
+        "text": " So Chris actually found the syllabus in more detail",
+        "polarity": 0.25,
+        "subjectivity": 0.3
+      },
+      {
+        "sentence number": 3,
+        "text": " But none of us had the energy to put it on the agenda and argue it through the committee",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      },
+      {
+        "sentence number": 4,
+        "text": " Yeah",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      },
+      {
+        "sentence number": 5,
+        "text": " Do you have any thoughts",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      }
+    ],
+    "polarity": 0.25,
+    "subjectivity": 0.3,
+    "keywords": [
+      [
+        "work of arranging",
+        0.021605190972859473
+      ],
+      [
+        "putting an item",
+        0.021605190972859473
+      ],
+      [
+        "two-thirds support",
+        0.021605190972859473
+      ],
+      [
+        "presented the syllabus",
+        0.029628746759506105
+      ],
+      [
+        "Chris actually found",
+        0.07788065311378127
+      ],
+      [
+        "found the syllabus",
+        0.07933731361360447
+      ],
+      [
+        "committee for continuing",
+        0.08880793285819226
+      ],
+      [
+        "syllabus",
+        0.09893845352150837
+      ],
+      [
+        "agenda",
+        0.13169359925427623
+      ],
+      [
+        "committee",
+        0.13169359925427623
+      ]
+    ]
+  },
+  {
+    "utterance number": 3,
+    "timestamp": "2023-03-23",
+    "speaker": "CDA",
+    "sentences": [
+      {
+        "sentence number": 1,
+        "text": " Yeah",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      },
+      {
+        "sentence number": 2,
+        "text": " That wasn\u2019t the significant burden",
+        "polarity": 0.375,
+        "subjectivity": 0.875
+      },
+      {
+        "sentence number": 3,
+        "text": " We didn\u2019t have a chance to meet again as a group (inclusion group) prior to plenary to discuss this, but the ask was beyond that",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      },
+      {
+        "sentence number": 4,
+        "text": " It was, first of all, that we raised in plenary the types of issues that led to needing the training",
+        "polarity": 0.25,
+        "subjectivity": 0.3333333333333333
+      },
+      {
+        "sentence number": 5,
+        "text": " I did go back and forth on whether to add this as an agenda item",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      },
+      {
+        "sentence number": 6,
+        "text": " But I was concerned that could manifest as airing grievances and really didn\u2019t want finger pointing or anything like that",
+        "polarity": 0.2,
+        "subjectivity": 0.2
+      },
+      {
+        "sentence number": 7,
+        "text": "",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      }
+    ],
+    "polarity": 0.16499999999999998,
+    "subjectivity": 0.2816666666666666,
+    "keywords": [
+      [
+        "Yeah",
+        0.10597999547083799
+      ],
+      [
+        "n\u2019t",
+        0.13397539605426323
+      ],
+      [
+        "significant burden",
+        0.17892770723933207
+      ],
+      [
+        "group",
+        0.1866700700710384
+      ],
+      [
+        "inclusion group",
+        0.20164287626626898
+      ],
+      [
+        "plenary",
+        0.24144421225875587
+      ],
+      [
+        "burden",
+        0.35913077506311736
+      ],
+      [
+        "chance to meet",
+        0.3629867477960135
+      ],
+      [
+        "needing the training",
+        0.3953432756921812
+      ],
+      [
+        "significant",
+        0.422608083204159
+      ]
+    ]
+  },
+  {
+    "utterance number": 4,
+    "timestamp": "2023-03-23",
+    "speaker": "CDA",
+    "sentences": [
+      {
+        "sentence number": 1,
+        "text": " So I think that it\u2019s still worthwhile to pursue, but I think that if we renew that effort, we should try and predicate it on something a little less focused on combativeness and acrimony and really frame it as something more positive",
+        "polarity": 0.1788510101010101,
+        "subjectivity": 0.38535353535353534
+      },
+      {
+        "sentence number": 2,
+        "text": " So ",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      },
+      {
+        "sentence number": 3,
+        "text": " ",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      },
+      {
+        "sentence number": 4,
+        "text": " ",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      },
+      {
+        "sentence number": 5,
+        "text": " does that make sense",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      },
+      {
+        "sentence number": 6,
+        "text": "",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      }
+    ],
+    "polarity": 0.1788510101010101,
+    "subjectivity": 0.38535353535353534,
+    "keywords": [
+      [
+        "worthwhile to pursue",
+        0.015465128052409167
+      ],
+      [
+        "renew that effort",
+        0.015465128052409167
+      ],
+      [
+        "focused on combativeness",
+        0.02140921543860024
+      ],
+      [
+        "combativeness and acrimony",
+        0.02140921543860024
+      ],
+      [
+        "pursue",
+        0.10519328464496844
+      ],
+      [
+        "effort",
+        0.10519328464496844
+      ],
+      [
+        "positive",
+        0.10519328464496844
+      ],
+      [
+        "worthwhile",
+        0.1447773057422032
+      ],
+      [
+        "renew",
+        0.1447773057422032
+      ],
+      [
+        "predicate",
+        0.1447773057422032
+      ]
+    ]
+  },
+  {
+    "utterance number": 5,
+    "timestamp": "2023-03-23",
+    "speaker": "DE",
+    "sentences": [
+      {
+        "sentence number": 1,
+        "text": " Yeah",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      },
+      {
+        "sentence number": 2,
+        "text": " This seems like meaningful immediate feedback that we can bring to Execom while withdrawing the request for now, based on the previously-agreed on deadline",
+        "polarity": 0.5,
+        "subjectivity": 0.5
+      },
+      {
+        "sentence number": 3,
+        "text": "",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      }
+    ],
+    "polarity": 0.5,
+    "subjectivity": 0.5,
+    "keywords": [
+      [
+        "Yeah",
+        0.05899937629682816
+      ],
+      [
+        "bring to Execom",
+        0.14487691114143314
+      ],
+      [
+        "Execom while withdrawing",
+        0.14487691114143314
+      ],
+      [
+        "previously-agreed on deadline",
+        0.18075564686791562
+      ],
+      [
+        "Execom",
+        0.2718250226855089
+      ],
+      [
+        "meaningful immediate feedback",
+        0.2766850298235749
+      ],
+      [
+        "withdrawing the request",
+        0.2766850298235749
+      ],
+      [
+        "based",
+        0.32883716426354986
+      ],
+      [
+        "deadline",
+        0.32883716426354986
+      ],
+      [
+        "meaningful",
+        0.46553351027698087
+      ]
+    ]
+  },
+  {
+    "utterance number": 6,
+    "timestamp": "2023-03-23",
+    "speaker": "CDA",
+    "sentences": [
+      {
+        "sentence number": 1,
+        "text": " Yeah",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      },
+      {
+        "sentence number": 2,
+        "text": " It was \u2013 here is the verbatim: \u201cA discussion be held among TC39 membership during a regularly session plenary session to surface the types of instances and issues that have encouraged newcomers to stop attending as well as other communication issues that led to the request for this NVC training and it should ",
+        "polarity": -0.0625,
+        "subjectivity": 0.22596153846153846
+      },
+      {
+        "sentence number": 3,
+        "text": " ",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      },
+      {
+        "sentence number": 4,
+        "text": " ",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      },
+      {
+        "sentence number": 5,
+        "text": " during the training along with the proposed training schedule",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      },
+      {
+        "sentence number": 6,
+        "text": " Discussion should seek consensus that the training is appropriate and expected to address the improper communication techniques and concerns that initiated the training request",
+        "polarity": 0.2,
+        "subjectivity": 0.45
+      },
+      {
+        "sentence number": 7,
+        "text": "\u201d",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      }
+    ],
+    "polarity": 0.06875,
+    "subjectivity": 0.33798076923076925,
+    "keywords": [
+      [
+        "training",
+        0.08667855699252029
+      ],
+      [
+        "session plenary session",
+        0.09612201940307066
+      ],
+      [
+        "NVC training",
+        0.09922594783886386
+      ],
+      [
+        "regularly session plenary",
+        0.10985421085693726
+      ],
+      [
+        "Yeah",
+        0.11995666139295341
+      ],
+      [
+        "issues that led",
+        0.1710666011997977
+      ],
+      [
+        "issues",
+        0.17178044047183894
+      ],
+      [
+        "communication issues",
+        0.19021162815444032
+      ],
+      [
+        "session",
+        0.19190084380232933
+      ],
+      [
+        "regularly session",
+        0.1950107841162075
+      ]
+    ]
+  },
+  {
+    "utterance number": 7,
+    "timestamp": "2023-03-23",
+    "speaker": "CDA",
+    "sentences": [
+      {
+        "sentence number": 1,
+        "text": " It goes on",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      },
+      {
+        "sentence number": 2,
+        "text": " But ",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      },
+      {
+        "sentence number": 3,
+        "text": " ",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      },
+      {
+        "sentence number": 4,
+        "text": " ",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      },
+      {
+        "sentence number": 5,
+        "text": " I just felt that the initial ask to surface the types of instances and issues that have discouraged new attendees and other communication issues may not have been a fruitful endeavor",
+        "polarity": 0.0037878787878787845,
+        "subjectivity": 0.27651515151515155
+      },
+      {
+        "sentence number": 6,
+        "text": "",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      }
+    ],
+    "polarity": 0.0037878787878787845,
+    "subjectivity": 0.27651515151515155,
+    "keywords": [
+      [
+        "issues",
+        0.37762373944285665
+      ],
+      [
+        "endeavor",
+        0.5735922332549855
+      ],
+      [
+        "fruitful endeavor",
+        0.6791533181929391
+      ],
+      [
+        "felt",
+        0.7051381514288926
+      ],
+      [
+        "initial",
+        0.7051381514288926
+      ],
+      [
+        "surface",
+        0.7051381514288926
+      ],
+      [
+        "types",
+        0.7051381514288926
+      ],
+      [
+        "instances",
+        0.7051381514288926
+      ],
+      [
+        "discouraged",
+        0.7051381514288926
+      ],
+      [
+        "attendees",
+        0.7051381514288926
+      ]
+    ]
+  },
+  {
+    "utterance number": 8,
+    "timestamp": "2023-03-23",
+    "speaker": "DE",
+    "sentences": [
+      {
+        "sentence number": 1,
+        "text": " Yeah",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      },
+      {
+        "sentence number": 2,
+        "text": " It was very important when we were setting up the Code of Conduct in the first place to not have that be oriented around blaming any delegates in particular",
+        "polarity": 0.31222222222222223,
+        "subjectivity": 0.5555555555555555
+      },
+      {
+        "sentence number": 3,
+        "text": " And probably work on improving this stuff going forward, we will need to do something going forward",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      },
+      {
+        "sentence number": 4,
+        "text": " I agree with you, CDA",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      },
+      {
+        "sentence number": 5,
+        "text": " Thanks for looking into this",
+        "polarity": 0.2,
+        "subjectivity": 0.2
+      },
+      {
+        "sentence number": 6,
+        "text": "",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      }
+    ],
+    "polarity": 0.2841666666666667,
+    "subjectivity": 0.4666666666666666,
+    "keywords": [
+      [
+        "Yeah",
+        0.08924108397847713
+      ],
+      [
+        "Code of Conduct",
+        0.10349004386870145
+      ],
+      [
+        "forward",
+        0.19186363310610108
+      ],
+      [
+        "CDA",
+        0.22933353007061644
+      ],
+      [
+        "Code",
+        0.3062422281603076
+      ],
+      [
+        "Conduct",
+        0.3062422281603076
+      ],
+      [
+        "stuff going forward",
+        0.34246108925935365
+      ],
+      [
+        "oriented around blaming",
+        0.4977790350828774
+      ],
+      [
+        "blaming any delegates",
+        0.4977790350828774
+      ],
+      [
+        "important",
+        0.5764935161049469
+      ]
+    ]
+  },
+  {
+    "utterance number": 9,
+    "timestamp": "2023-03-23",
+    "speaker": "CDA",
+    "sentences": [
+      {
+        "sentence number": 1,
+        "text": " I will say, I\u2019ve been pleased at how this plenary has gone",
+        "polarity": 0.5,
+        "subjectivity": 1.0
+      },
+      {
+        "sentence number": 2,
+        "text": " I really can\u2019t think of a single issue or problem in this sort of area",
+        "polarity": 0.0642857142857143,
+        "subjectivity": 0.20714285714285713
+      },
+      {
+        "sentence number": 3,
+        "text": " So I am very happy at the, you know, collegial atmosphere that we have had for this plenary",
+        "polarity": 1.0,
+        "subjectivity": 1.0
+      },
+      {
+        "sentence number": 4,
+        "text": " I think the last one went well as well, but I wasn\u2019t able to attend much of last plenary",
+        "polarity": 0.16666666666666666,
+        "subjectivity": 0.25277777777777777
+      },
+      {
+        "sentence number": 5,
+        "text": "",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      }
+    ],
+    "polarity": 0.3040816326530612,
+    "subjectivity": 0.45323129251700683,
+    "keywords": [
+      [
+        "\u2019ve been pleased",
+        0.03056944093777604
+      ],
+      [
+        "plenary",
+        0.13295097698992223
+      ],
+      [
+        "\u2019ve",
+        0.17222853918000403
+      ],
+      [
+        "pleased",
+        0.17222853918000403
+      ],
+      [
+        "sort of area",
+        0.17566454124871966
+      ],
+      [
+        "single issue",
+        0.21354783052839957
+      ],
+      [
+        "issue or problem",
+        0.21354783052839957
+      ],
+      [
+        "n\u2019t",
+        0.22565215793506563
+      ],
+      [
+        "collegial atmosphere",
+        0.29683782282055643
+      ],
+      [
+        "area",
+        0.3561898612105719
+      ]
+    ]
+  },
+  {
+    "utterance number": 10,
+    "timestamp": "2023-03-23",
+    "speaker": "RPR",
+    "sentences": [
+      {
+        "sentence number": 1,
+        "text": " We are out of time, but the initial request went in 4 years ago",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      },
+      {
+        "sentence number": 2,
+        "text": " And I think the \u2013 committee has done well since then",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      },
+      {
+        "sentence number": 3,
+        "text": "",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      }
+    ],
+    "polarity": 0.0,
+    "subjectivity": 0.0,
+    "keywords": [
+      [
+        "years ago",
+        0.01552184797949213
+      ],
+      [
+        "initial request",
+        0.04188746641162499
+      ],
+      [
+        "time",
+        0.12363091320521931
+      ],
+      [
+        "years",
+        0.12363091320521931
+      ],
+      [
+        "ago",
+        0.12363091320521931
+      ],
+      [
+        "initial",
+        0.2005079697193566
+      ],
+      [
+        "request",
+        0.2005079697193566
+      ],
+      [
+        "committee",
+        0.32883716426354986
+      ]
+    ]
+  },
+  {
+    "utterance number": 11,
+    "timestamp": "2023-03-23",
+    "speaker": "DE",
+    "sentences": [
+      {
+        "sentence number": 1,
+        "text": " That\u2019s not to say that such a training is not helpful",
+        "polarity": 0.0,
+        "subjectivity": 0.5
+      }
+    ],
+    "polarity": 0.0,
+    "subjectivity": 0.5,
+    "keywords": [
+      [
+        "helpful",
+        0.09568045026443411
+      ],
+      [
+        "training",
+        0.15831692877998726
+      ]
+    ]
+  },
+  {
+    "utterance number": 12,
+    "timestamp": "2023-03-23",
+    "speaker": "RPR",
+    "sentences": [
+      {
+        "sentence number": 1,
+        "text": " Agreed - it could still be helpful",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      },
+      {
+        "sentence number": 2,
+        "text": "",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      }
+    ],
+    "polarity": 0.0,
+    "subjectivity": 0.0,
+    "keywords": [
+      [
+        "Agreed",
+        0.04491197687864554
+      ],
+      [
+        "helpful",
+        0.15831692877998726
+      ]
+    ]
+  },
+  {
+    "utterance number": 13,
+    "timestamp": "2023-03-23",
+    "speaker": "JHD",
+    "sentences": [
+      {
+        "sentence number": 1,
+        "text": " Perhaps just less urgent than originally believed",
+        "polarity": 0.10416666666666667,
+        "subjectivity": 0.4083333333333333
+      },
+      {
+        "sentence number": 2,
+        "text": "",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      }
+    ],
+    "polarity": 0.10416666666666667,
+    "subjectivity": 0.4083333333333333,
+    "keywords": [
+      [
+        "originally believed",
+        0.04940384002065631
+      ],
+      [
+        "urgent than originally",
+        0.09700399286574239
+      ],
+      [
+        "believed",
+        0.15831692877998726
+      ],
+      [
+        "urgent",
+        0.29736558256021506
+      ],
+      [
+        "originally",
+        0.29736558256021506
+      ]
+    ]
+  },
+  {
+    "utterance number": 14,
+    "timestamp": "2023-03-23",
+    "speaker": "DE",
+    "sentences": [
+      {
+        "sentence number": 1,
+        "text": " Sure",
+        "polarity": 0.5,
+        "subjectivity": 0.8888888888888888
+      },
+      {
+        "sentence number": 2,
+        "text": "",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      }
+    ],
+    "polarity": 0.5,
+    "subjectivity": 0.8888888888888888,
+    "keywords": []
+  },
+  {
+    "utterance number": 15,
+    "timestamp": "2023-03-23",
+    "speaker": "RPR",
+    "sentences": [
+      {
+        "sentence number": 1,
+        "text": " This is the end of the meeting",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      },
+      {
+        "sentence number": 2,
+        "text": " Thank you to our meeting host F5",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      },
+      {
+        "sentence number": 3,
+        "text": "",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      }
+    ],
+    "polarity": 0.0,
+    "subjectivity": 0.0,
+    "keywords": [
+      [
+        "meeting",
+        0.24516296616129382
+      ],
+      [
+        "meeting host",
+        0.25223019636348215
+      ],
+      [
+        "end",
+        0.26301780071106734
+      ],
+      [
+        "host",
+        0.41079773749817783
+      ]
+    ]
+  }
+]

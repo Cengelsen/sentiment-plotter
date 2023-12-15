@@ -1,0 +1,300 @@
+[
+  {
+    "utterance number": 159,
+    "timestamp": "2023-02-02",
+    "speaker": "DE",
+    "sentences": [
+      {
+        "sentence number": 1,
+        "text": " Sure",
+        "polarity": 0.5,
+        "subjectivity": 0.8888888888888888
+      },
+      {
+        "sentence number": 2,
+        "text": " So I guess I would kind of like to dig into what is insufficient about that hint",
+        "polarity": 0.6,
+        "subjectivity": 0.9
+      },
+      {
+        "sentence number": 3,
+        "text": " Because we\u2019re talking about \u2013",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      }
+    ],
+    "polarity": 0.55,
+    "subjectivity": 0.8944444444444444,
+    "keywords": [
+      [
+        "hint",
+        0.3553358554145339
+      ],
+      [
+        "guess",
+        0.4949246952252326
+      ],
+      [
+        "kind",
+        0.4949246952252326
+      ],
+      [
+        "dig",
+        0.4949246952252326
+      ],
+      [
+        "insufficient",
+        0.4949246952252326
+      ],
+      [
+        "\u2019re talking",
+        0.5286731219590494
+      ],
+      [
+        "\u2019re",
+        0.5880798524606783
+      ],
+      [
+        "talking",
+        0.5880798524606783
+      ]
+    ]
+  },
+  {
+    "utterance number": 173,
+    "timestamp": "2023-02-02",
+    "speaker": "BT",
+    "sentences": [
+      {
+        "sentence number": 1,
+        "text": " That seems fair",
+        "polarity": 0.7,
+        "subjectivity": 0.9
+      },
+      {
+        "sentence number": 2,
+        "text": " Justin, do you want to talk about your +100,000",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      },
+      {
+        "sentence number": 3,
+        "text": "",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      }
+    ],
+    "polarity": 0.7,
+    "subjectivity": 0.9,
+    "keywords": [
+      [
+        "Justin",
+        0.17881754828257995
+      ],
+      [
+        "fair",
+        0.2005079697193566
+      ],
+      [
+        "talk",
+        0.6621399683957523
+      ]
+    ]
+  },
+  {
+    "utterance number": 212,
+    "timestamp": "2023-02-02",
+    "speaker": "DE",
+    "sentences": [
+      {
+        "sentence number": 1,
+        "text": "  Just hear you cutting in and out",
+        "polarity": -0.6,
+        "subjectivity": 0.9
+      },
+      {
+        "sentence number": 2,
+        "text": " I thought you were done",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      },
+      {
+        "sentence number": 3,
+        "text": " So you can finish",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      },
+      {
+        "sentence number": 4,
+        "text": "",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      }
+    ],
+    "polarity": -0.6,
+    "subjectivity": 0.9,
+    "keywords": [
+      [
+        "hear you cutting",
+        0.027581485432184485
+      ],
+      [
+        "hear",
+        0.16383273847958243
+      ],
+      [
+        "cutting",
+        0.16383273847958243
+      ],
+      [
+        "finish",
+        0.3881970960906714
+      ],
+      [
+        "thought",
+        0.4049347717850166
+      ]
+    ]
+  },
+  {
+    "utterance number": 363,
+    "timestamp": "2023-02-02",
+    "speaker": "DRR",
+    "sentences": [
+      {
+        "sentence number": 1,
+        "text": " Beautiful",
+        "polarity": 0.85,
+        "subjectivity": 1.0
+      },
+      {
+        "sentence number": 2,
+        "text": " Amazing",
+        "polarity": 0.6000000000000001,
+        "subjectivity": 0.9
+      },
+      {
+        "sentence number": 3,
+        "text": "",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      }
+    ],
+    "polarity": 0.7250000000000001,
+    "subjectivity": 0.95,
+    "keywords": [
+      [
+        "Beautiful",
+        0.05899937629682816
+      ],
+      [
+        "Amazing",
+        0.17881754828257995
+      ]
+    ]
+  },
+  {
+    "utterance number": 380,
+    "timestamp": "2023-02-02",
+    "speaker": "WH",
+    "sentences": [
+      {
+        "sentence number": 1,
+        "text": " Sounds good",
+        "polarity": 0.7,
+        "subjectivity": 0.6000000000000001
+      },
+      {
+        "sentence number": 2,
+        "text": "",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      }
+    ],
+    "polarity": 0.7,
+    "subjectivity": 0.6000000000000001,
+    "keywords": [
+      [
+        "Sounds good",
+        0.02570861714399338
+      ],
+      [
+        "Sounds",
+        0.15831692877998726
+      ],
+      [
+        "good",
+        0.15831692877998726
+      ]
+    ]
+  },
+  {
+    "utterance number": 386,
+    "timestamp": "2023-02-02",
+    "speaker": "DE",
+    "sentences": [
+      {
+        "sentence number": 1,
+        "text": " That would be great",
+        "polarity": 0.8,
+        "subjectivity": 0.75
+      },
+      {
+        "sentence number": 2,
+        "text": " I just need to kind of follow up with the ECMA secretariat to make sure this continues if people like It",
+        "polarity": 0.55,
+        "subjectivity": 0.8944444444444444
+      },
+      {
+        "sentence number": 3,
+        "text": "",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      }
+    ],
+    "polarity": 0.6333333333333333,
+    "subjectivity": 0.8462962962962962,
+    "keywords": [
+      [
+        "great",
+        0.12363091320521931
+      ],
+      [
+        "ECMA secretariat",
+        0.14487691114143314
+      ],
+      [
+        "ECMA",
+        0.2718250226855089
+      ],
+      [
+        "kind of follow",
+        0.2766850298235749
+      ],
+      [
+        "secretariat to make",
+        0.2766850298235749
+      ],
+      [
+        "continues if people",
+        0.2766850298235749
+      ],
+      [
+        "kind",
+        0.46553351027698087
+      ],
+      [
+        "follow",
+        0.46553351027698087
+      ],
+      [
+        "secretariat",
+        0.46553351027698087
+      ],
+      [
+        "make",
+        0.46553351027698087
+      ]
+    ]
+  }
+]

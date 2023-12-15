@@ -1,0 +1,143 @@
+[
+  {
+    "utterance number": 139,
+    "timestamp": "2023-02-02",
+    "speaker": "DRR",
+    "sentences": [
+      {
+        "sentence number": 1,
+        "text": " Beautiful",
+        "polarity": 0.85,
+        "subjectivity": 1.0
+      },
+      {
+        "sentence number": 2,
+        "text": " Amazing",
+        "polarity": 0.6000000000000001,
+        "subjectivity": 0.9
+      },
+      {
+        "sentence number": 3,
+        "text": "",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      }
+    ],
+    "polarity": 0.7250000000000001,
+    "subjectivity": 0.95,
+    "keywords": [
+      [
+        "Beautiful",
+        0.05899937629682816
+      ],
+      [
+        "Amazing",
+        0.17881754828257995
+      ]
+    ]
+  },
+  {
+    "utterance number": 156,
+    "timestamp": "2023-02-02",
+    "speaker": "WH",
+    "sentences": [
+      {
+        "sentence number": 1,
+        "text": " Sounds good",
+        "polarity": 0.7,
+        "subjectivity": 0.6000000000000001
+      },
+      {
+        "sentence number": 2,
+        "text": "",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      }
+    ],
+    "polarity": 0.7,
+    "subjectivity": 0.6000000000000001,
+    "keywords": [
+      [
+        "Sounds good",
+        0.02570861714399338
+      ],
+      [
+        "Sounds",
+        0.15831692877998726
+      ],
+      [
+        "good",
+        0.15831692877998726
+      ]
+    ]
+  },
+  {
+    "utterance number": 162,
+    "timestamp": "2023-02-02",
+    "speaker": "DE",
+    "sentences": [
+      {
+        "sentence number": 1,
+        "text": " That would be great",
+        "polarity": 0.8,
+        "subjectivity": 0.75
+      },
+      {
+        "sentence number": 2,
+        "text": " I just need to kind of follow up with the ECMA secretariat to make sure this continues if people like It",
+        "polarity": 0.55,
+        "subjectivity": 0.8944444444444444
+      },
+      {
+        "sentence number": 3,
+        "text": "",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      }
+    ],
+    "polarity": 0.6333333333333333,
+    "subjectivity": 0.8462962962962962,
+    "keywords": [
+      [
+        "great",
+        0.12363091320521931
+      ],
+      [
+        "ECMA secretariat",
+        0.14487691114143314
+      ],
+      [
+        "ECMA",
+        0.2718250226855089
+      ],
+      [
+        "kind of follow",
+        0.2766850298235749
+      ],
+      [
+        "secretariat to make",
+        0.2766850298235749
+      ],
+      [
+        "continues if people",
+        0.2766850298235749
+      ],
+      [
+        "kind",
+        0.46553351027698087
+      ],
+      [
+        "follow",
+        0.46553351027698087
+      ],
+      [
+        "secretariat",
+        0.46553351027698087
+      ],
+      [
+        "make",
+        0.46553351027698087
+      ]
+    ]
+  }
+]

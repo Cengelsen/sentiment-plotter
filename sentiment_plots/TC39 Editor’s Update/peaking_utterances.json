@@ -1,0 +1,777 @@
+[
+  {
+    "utterance number": 41,
+    "timestamp": "2023-03-21",
+    "speaker": "JHD",
+    "sentences": [
+      {
+        "sentence number": 1,
+        "text": " It would be nice if - this is a mild proposal that when we approve normative changes to proposals, that we put something in the notes indicating who is taking responsibility for filing a test262 issue to track those changes, or PR or whatever, but it would be nice to have somebody for each proposal, for each set of normative changes to kind of drive that forward and make sure that it's tracked",
+        "polarity": 0.5266666666666666,
+        "subjectivity": 0.8577777777777778
+      },
+      {
+        "sentence number": 2,
+        "text": " Not as a strict requirement, but just as like, it'd be nice if we tried to do this",
+        "polarity": 0.6,
+        "subjectivity": 1.0
+      },
+      {
+        "sentence number": 3,
+        "text": " That's the end of my list",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      },
+      {
+        "sentence number": 4,
+        "text": "",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      }
+    ],
+    "polarity": 0.5388888888888889,
+    "subjectivity": 0.8814814814814814,
+    "keywords": [
+      [
+        "issue to track",
+        0.02301444427264337
+      ],
+      [
+        "approve normative",
+        0.02488894029926747
+      ],
+      [
+        "notes indicating",
+        0.030111769257136645
+      ],
+      [
+        "taking responsibility",
+        0.030111769257136645
+      ],
+      [
+        "responsibility for filing",
+        0.030111769257136645
+      ],
+      [
+        "kind of drive",
+        0.030111769257136645
+      ],
+      [
+        "drive that forward",
+        0.030111769257136645
+      ],
+      [
+        "forward and make",
+        0.030111769257136645
+      ],
+      [
+        "mild proposal",
+        0.03253361998642802
+      ],
+      [
+        "set of normative",
+        0.058745466413535695
+      ]
+    ]
+  },
+  {
+    "utterance number": 47,
+    "timestamp": "2023-03-21",
+    "speaker": "JHD",
+    "sentences": [
+      {
+        "sentence number": 1,
+        "text": " That sounds like a great way to phrase a conclusion",
+        "polarity": 0.8,
+        "subjectivity": 0.75
+      },
+      {
+        "sentence number": 2,
+        "text": "",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      }
+    ],
+    "polarity": 0.8,
+    "subjectivity": 0.75,
+    "keywords": [
+      [
+        "phrase a conclusion",
+        0.015380821171891606
+      ],
+      [
+        "conclusion",
+        0.09568045026443411
+      ],
+      [
+        "sounds",
+        0.15831692877998726
+      ],
+      [
+        "great",
+        0.15831692877998726
+      ],
+      [
+        "phrase",
+        0.15831692877998726
+      ]
+    ]
+  },
+  {
+    "utterance number": 106,
+    "timestamp": "2023-03-21",
+    "speaker": "MF",
+    "sentences": [
+      {
+        "sentence number": 1,
+        "text": " Great",
+        "polarity": 0.8,
+        "subjectivity": 0.75
+      },
+      {
+        "sentence number": 2,
+        "text": "",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      }
+    ],
+    "polarity": 0.8,
+    "subjectivity": 0.75,
+    "keywords": [
+      [
+        "Great",
+        0.04491197687864554
+      ]
+    ]
+  },
+  {
+    "utterance number": 133,
+    "timestamp": "2023-03-21",
+    "speaker": "DE",
+    "sentences": [
+      {
+        "sentence number": 1,
+        "text": " Great",
+        "polarity": 0.8,
+        "subjectivity": 0.75
+      },
+      {
+        "sentence number": 2,
+        "text": "",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      }
+    ],
+    "polarity": 0.8,
+    "subjectivity": 0.75,
+    "keywords": [
+      [
+        "Great",
+        0.04491197687864554
+      ]
+    ]
+  },
+  {
+    "utterance number": 204,
+    "timestamp": "2023-03-21",
+    "speaker": "MM",
+    "sentences": [
+      {
+        "sentence number": 1,
+        "text": " Just confirming what RBN said that all the concerns that I had that led me to favored `using await` are completely satisfied by `await using`, I'm very happy with that result",
+        "polarity": 0.7666666666666666,
+        "subjectivity": 0.9666666666666667
+      },
+      {
+        "sentence number": 2,
+        "text": "",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      }
+    ],
+    "polarity": 0.7666666666666666,
+    "subjectivity": 0.9666666666666667,
+    "keywords": [
+      [
+        "confirming what RBN",
+        0.0068330400702793425
+      ],
+      [
+        "completely satisfied",
+        0.012220051967672856
+      ],
+      [
+        "RBN",
+        0.06176713399260923
+      ],
+      [
+        "await",
+        0.06706294711327264
+      ],
+      [
+        "favored",
+        0.07895278969183914
+      ],
+      [
+        "result",
+        0.07895278969183914
+      ],
+      [
+        "confirming",
+        0.10987504304330521
+      ],
+      [
+        "concerns",
+        0.10987504304330521
+      ],
+      [
+        "led",
+        0.10987504304330521
+      ],
+      [
+        "completely",
+        0.10987504304330521
+      ]
+    ]
+  },
+  {
+    "utterance number": 220,
+    "timestamp": "2023-03-21",
+    "speaker": "DE",
+    "sentences": [
+      {
+        "sentence number": 1,
+        "text": " Okay",
+        "polarity": 0.5,
+        "subjectivity": 0.5
+      },
+      {
+        "sentence number": 2,
+        "text": " if we're not doing a temperature check, I just want to register, I would be strongly positive",
+        "polarity": 0.22727272727272727,
+        "subjectivity": 0.5454545454545454
+      },
+      {
+        "sentence number": 3,
+        "text": " If we had a temperature check, I think it's great that you did so much detailed look into this",
+        "polarity": 0.6000000000000001,
+        "subjectivity": 0.75
+      },
+      {
+        "sentence number": 4,
+        "text": " and I'm happy with your proposal",
+        "polarity": 0.8,
+        "subjectivity": 1.0
+      },
+      {
+        "sentence number": 5,
+        "text": "",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      }
+    ],
+    "polarity": 0.5454545454545455,
+    "subjectivity": 0.7090909090909091,
+    "keywords": [
+      [
+        "temperature check",
+        0.043998968026003914
+      ],
+      [
+        "check",
+        0.12483732323022521
+      ],
+      [
+        "temperature",
+        0.16197201139198075
+      ],
+      [
+        "strongly positive",
+        0.17761164777611452
+      ],
+      [
+        "register",
+        0.34749523526392095
+      ],
+      [
+        "positive",
+        0.34749523526392095
+      ],
+      [
+        "strongly",
+        0.4340307474356052
+      ],
+      [
+        "proposal",
+        0.4369050564108386
+      ],
+      [
+        "great",
+        0.5276993038251123
+      ],
+      [
+        "detailed",
+        0.5276993038251123
+      ]
+    ]
+  },
+  {
+    "utterance number": 237,
+    "timestamp": "2023-03-21",
+    "speaker": "RBN",
+    "sentences": [
+      {
+        "sentence number": 1,
+        "text": " I'l be honest, my preferred outcome is achieving stage 3",
+        "polarity": 0.6,
+        "subjectivity": 0.9
+      },
+      {
+        "sentence number": 2,
+        "text": "",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      }
+    ],
+    "polarity": 0.6,
+    "subjectivity": 0.9,
+    "keywords": [
+      [
+        "achieving stage",
+        0.04940384002065631
+      ],
+      [
+        "preferred outcome",
+        0.09700399286574239
+      ],
+      [
+        "outcome is achieving",
+        0.09700399286574239
+      ],
+      [
+        "honest",
+        0.15831692877998726
+      ],
+      [
+        "stage",
+        0.15831692877998726
+      ],
+      [
+        "preferred",
+        0.29736558256021506
+      ],
+      [
+        "outcome",
+        0.29736558256021506
+      ],
+      [
+        "achieving",
+        0.29736558256021506
+      ]
+    ]
+  },
+  {
+    "utterance number": 255,
+    "timestamp": "2023-03-21",
+    "speaker": "KHG",
+    "sentences": [
+      {
+        "sentence number": 1,
+        "text": " Cool",
+        "polarity": 0.35,
+        "subjectivity": 0.65
+      },
+      {
+        "sentence number": 2,
+        "text": " awesome",
+        "polarity": 1.0,
+        "subjectivity": 1.0
+      },
+      {
+        "sentence number": 3,
+        "text": " Okay, So I'm going to assume that that one is okay and we will move forward",
+        "polarity": 0.5,
+        "subjectivity": 0.5
+      },
+      {
+        "sentence number": 4,
+        "text": "",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      }
+    ],
+    "polarity": 0.5875,
+    "subjectivity": 0.6625,
+    "keywords": [
+      [
+        "Cool. awesome",
+        0.01552184797949213
+      ],
+      [
+        "Cool.",
+        0.12363091320521931
+      ],
+      [
+        "awesome",
+        0.12363091320521931
+      ],
+      [
+        "move forward",
+        0.18075564686791562
+      ],
+      [
+        "forward",
+        0.32883716426354986
+      ],
+      [
+        "assume",
+        0.46553351027698087
+      ],
+      [
+        "move",
+        0.46553351027698087
+      ]
+    ]
+  },
+  {
+    "utterance number": 259,
+    "timestamp": "2023-03-21",
+    "speaker": "DE",
+    "sentences": [
+      {
+        "sentence number": 1,
+        "text": " +1 good bug fix",
+        "polarity": 0.7,
+        "subjectivity": 0.6000000000000001
+      }
+    ],
+    "polarity": 0.7,
+    "subjectivity": 0.6000000000000001,
+    "keywords": [
+      [
+        "good bug fix",
+        0.008321268142839145
+      ],
+      [
+        "good bug",
+        0.04940384002065631
+      ],
+      [
+        "bug fix",
+        0.04940384002065631
+      ],
+      [
+        "good",
+        0.15831692877998726
+      ],
+      [
+        "fix",
+        0.15831692877998726
+      ],
+      [
+        "bug",
+        0.29736558256021506
+      ]
+    ]
+  },
+  {
+    "utterance number": 264,
+    "timestamp": "2023-03-21",
+    "speaker": "DLM",
+    "sentences": [
+      {
+        "sentence number": 1,
+        "text": " Yeah, looks good to me",
+        "polarity": 0.7,
+        "subjectivity": 0.6000000000000001
+      },
+      {
+        "sentence number": 2,
+        "text": "",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      }
+    ],
+    "polarity": 0.7,
+    "subjectivity": 0.6000000000000001,
+    "keywords": [
+      [
+        "Yeah",
+        0.04491197687864554
+      ],
+      [
+        "good",
+        0.29736558256021506
+      ]
+    ]
+  },
+  {
+    "utterance number": 265,
+    "timestamp": "2023-03-21",
+    "speaker": "RPR",
+    "sentences": [
+      {
+        "sentence number": 1,
+        "text": " Right",
+        "polarity": 0.2857142857142857,
+        "subjectivity": 0.5357142857142857
+      },
+      {
+        "sentence number": 2,
+        "text": " Any corrections or the comments on number three",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      },
+      {
+        "sentence number": 3,
+        "text": " _silence_",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      },
+      {
+        "sentence number": 4,
+        "text": " You have consensus on Number three, perfect",
+        "polarity": 1.0,
+        "subjectivity": 1.0
+      },
+      {
+        "sentence number": 5,
+        "text": "",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      }
+    ],
+    "polarity": 0.6428571428571428,
+    "subjectivity": 0.7678571428571428,
+    "keywords": [
+      [
+        "number",
+        0.1948740475845914
+      ],
+      [
+        "comments on number",
+        0.30008083896373994
+      ],
+      [
+        "silence",
+        0.34596932955184906
+      ],
+      [
+        "consensus on Number",
+        0.3913542955178819
+      ],
+      [
+        "perfect",
+        0.3933019823979365
+      ],
+      [
+        "corrections",
+        0.5922211406859976
+      ],
+      [
+        "comments",
+        0.5922211406859976
+      ],
+      [
+        "consensus",
+        0.72168614963271
+      ]
+    ]
+  },
+  {
+    "utterance number": 274,
+    "timestamp": "2023-03-21",
+    "speaker": "ACE",
+    "sentences": [
+      {
+        "sentence number": 1,
+        "text": " I'll just add: that is what I've been doing with decorators already, setting the name myself manually",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      },
+      {
+        "sentence number": 2,
+        "text": " So it seems good",
+        "polarity": 0.7,
+        "subjectivity": 0.6000000000000001
+      },
+      {
+        "sentence number": 3,
+        "text": "",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      }
+    ],
+    "polarity": 0.7,
+    "subjectivity": 0.6000000000000001,
+    "keywords": [
+      [
+        "add",
+        0.12363091320521931
+      ],
+      [
+        "setting",
+        0.12363091320521931
+      ],
+      [
+        "manually",
+        0.12363091320521931
+      ],
+      [
+        "decorators",
+        0.2005079697193566
+      ],
+      [
+        "good",
+        0.32883716426354986
+      ]
+    ]
+  },
+  {
+    "utterance number": 279,
+    "timestamp": "2023-03-21",
+    "speaker": "KHG",
+    "sentences": [
+      {
+        "sentence number": 1,
+        "text": " It sounds like that",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      },
+      {
+        "sentence number": 2,
+        "text": " We agree",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      },
+      {
+        "sentence number": 3,
+        "text": " That would be a bad idea",
+        "polarity": -0.6999999999999998,
+        "subjectivity": 0.6666666666666666
+      },
+      {
+        "sentence number": 4,
+        "text": "",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      }
+    ],
+    "polarity": -0.6999999999999998,
+    "subjectivity": 0.6666666666666666,
+    "keywords": [
+      [
+        "sounds",
+        0.2200560909321288
+      ],
+      [
+        "bad idea",
+        0.35487136790899465
+      ],
+      [
+        "agree",
+        0.3553358554145339
+      ],
+      [
+        "idea",
+        0.44538603402402266
+      ],
+      [
+        "bad",
+        0.5880798524606783
+      ]
+    ]
+  },
+  {
+    "utterance number": 296,
+    "timestamp": "2023-03-21",
+    "speaker": "KHG",
+    "sentences": [
+      {
+        "sentence number": 1,
+        "text": " Awesome",
+        "polarity": 1.0,
+        "subjectivity": 1.0
+      },
+      {
+        "sentence number": 2,
+        "text": "",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      }
+    ],
+    "polarity": 1.0,
+    "subjectivity": 1.0,
+    "keywords": [
+      [
+        "Awesome",
+        0.04491197687864554
+      ]
+    ]
+  },
+  {
+    "utterance number": 316,
+    "timestamp": "2023-03-21",
+    "speaker": "DE",
+    "sentences": [
+      {
+        "sentence number": 1,
+        "text": " there's a lot of people in the queue",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      },
+      {
+        "sentence number": 2,
+        "text": " You made a good point",
+        "polarity": 0.7,
+        "subjectivity": 0.6000000000000001
+      },
+      {
+        "sentence number": 3,
+        "text": "",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      }
+    ],
+    "polarity": 0.7,
+    "subjectivity": 0.6000000000000001,
+    "keywords": [
+      [
+        "lot of people",
+        0.04188746641162499
+      ],
+      [
+        "queue",
+        0.12363091320521931
+      ],
+      [
+        "good point",
+        0.18075564686791562
+      ],
+      [
+        "lot",
+        0.2005079697193566
+      ],
+      [
+        "people",
+        0.2005079697193566
+      ],
+      [
+        "made a good",
+        0.2766850298235749
+      ],
+      [
+        "point",
+        0.32883716426354986
+      ],
+      [
+        "made",
+        0.46553351027698087
+      ],
+      [
+        "good",
+        0.46553351027698087
+      ]
+    ]
+  }
+]

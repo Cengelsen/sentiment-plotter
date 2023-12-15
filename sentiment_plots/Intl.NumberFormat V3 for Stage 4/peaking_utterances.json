@@ -1,0 +1,478 @@
+[
+  {
+    "utterance number": 5,
+    "timestamp": "2023-01-31",
+    "speaker": "BT",
+    "sentences": [
+      {
+        "sentence number": 1,
+        "text": " Awesome",
+        "polarity": 1.0,
+        "subjectivity": 1.0
+      },
+      {
+        "sentence number": 2,
+        "text": " Thank you, Richard",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      },
+      {
+        "sentence number": 3,
+        "text": " Daniel, do you want to speak on this topic, or we can note that have explicit support",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      },
+      {
+        "sentence number": 4,
+        "text": "",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      }
+    ],
+    "polarity": 1.0,
+    "subjectivity": 1.0,
+    "keywords": [
+      [
+        "Awesome",
+        0.06588837669267192
+      ],
+      [
+        "Richard",
+        0.12279633060176753
+      ],
+      [
+        "Daniel",
+        0.26303348124903125
+      ],
+      [
+        "explicit support",
+        0.35487136790899465
+      ],
+      [
+        "topic",
+        0.44538603402402266
+      ],
+      [
+        "support",
+        0.44538603402402266
+      ],
+      [
+        "speak",
+        0.5880798524606783
+      ],
+      [
+        "note",
+        0.5880798524606783
+      ],
+      [
+        "explicit",
+        0.5880798524606783
+      ]
+    ]
+  },
+  {
+    "utterance number": 13,
+    "timestamp": "2023-01-31",
+    "speaker": "BT",
+    "sentences": [
+      {
+        "sentence number": 1,
+        "text": " DLM says plus 1",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      },
+      {
+        "sentence number": 2,
+        "text": " Changes look good to me",
+        "polarity": 0.7,
+        "subjectivity": 0.6000000000000001
+      },
+      {
+        "sentence number": 3,
+        "text": "",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      }
+    ],
+    "polarity": 0.7,
+    "subjectivity": 0.6000000000000001,
+    "keywords": [
+      [
+        "DLM",
+        0.09705179139403544
+      ],
+      [
+        "good",
+        0.6621399683957523
+      ]
+    ]
+  },
+  {
+    "utterance number": 23,
+    "timestamp": "2023-01-31",
+    "speaker": "NRO",
+    "sentences": [
+      {
+        "sentence number": 1,
+        "text": " Happy to discuss this out of band",
+        "polarity": 0.8,
+        "subjectivity": 1.0
+      },
+      {
+        "sentence number": 2,
+        "text": "",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      }
+    ],
+    "polarity": 0.8,
+    "subjectivity": 1.0,
+    "keywords": [
+      [
+        "Happy to discuss",
+        0.04940384002065631
+      ],
+      [
+        "Happy",
+        0.15831692877998726
+      ],
+      [
+        "band",
+        0.15831692877998726
+      ],
+      [
+        "discuss",
+        0.29736558256021506
+      ]
+    ]
+  },
+  {
+    "utterance number": 228,
+    "timestamp": "2023-01-31",
+    "speaker": "KG",
+    "sentences": [
+      {
+        "sentence number": 1,
+        "text": " Yeah, sounds good",
+        "polarity": 0.7,
+        "subjectivity": 0.6000000000000001
+      },
+      {
+        "sentence number": 2,
+        "text": " And again, I apologize for not getting it on here",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      },
+      {
+        "sentence number": 3,
+        "text": "",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      }
+    ],
+    "polarity": 0.7,
+    "subjectivity": 0.6000000000000001,
+    "keywords": [
+      [
+        "sounds good",
+        0.04188746641162499
+      ],
+      [
+        "Yeah",
+        0.05899937629682816
+      ],
+      [
+        "sounds",
+        0.2005079697193566
+      ],
+      [
+        "good",
+        0.2005079697193566
+      ],
+      [
+        "apologize",
+        0.6621399683957523
+      ]
+    ]
+  },
+  {
+    "utterance number": 232,
+    "timestamp": "2023-01-31",
+    "speaker": "KG",
+    "sentences": [
+      {
+        "sentence number": 1,
+        "text": " Yes, and JHD is asking about putting it in a separate repository",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      },
+      {
+        "sentence number": 2,
+        "text": " Yes, that sounds good",
+        "polarity": 0.7,
+        "subjectivity": 0.6000000000000001
+      },
+      {
+        "sentence number": 3,
+        "text": " I will do that",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      },
+      {
+        "sentence number": 4,
+        "text": "",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      }
+    ],
+    "polarity": 0.7,
+    "subjectivity": 0.6000000000000001,
+    "keywords": [
+      [
+        "separate repository",
+        0.03107735477427921
+      ],
+      [
+        "JHD",
+        0.10141226884569679
+      ],
+      [
+        "repository",
+        0.13696809108329627
+      ],
+      [
+        "sounds good",
+        0.21339268578732606
+      ],
+      [
+        "putting",
+        0.2200560909321288
+      ],
+      [
+        "separate",
+        0.2200560909321288
+      ],
+      [
+        "good",
+        0.3553358554145339
+      ],
+      [
+        "sounds",
+        0.4949246952252326
+      ]
+    ]
+  },
+  {
+    "utterance number": 235,
+    "timestamp": "2023-01-31",
+    "speaker": "PFC",
+    "sentences": [
+      {
+        "sentence number": 1,
+        "text": " All right",
+        "polarity": 0.2857142857142857,
+        "subjectivity": 0.5357142857142857
+      },
+      {
+        "sentence number": 2,
+        "text": " Great",
+        "polarity": 0.8,
+        "subjectivity": 0.75
+      },
+      {
+        "sentence number": 3,
+        "text": "",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      }
+    ],
+    "polarity": 0.5428571428571429,
+    "subjectivity": 0.6428571428571428,
+    "keywords": [
+      [
+        "Great",
+        0.17881754828257995
+      ]
+    ]
+  },
+  {
+    "utterance number": 269,
+    "timestamp": "2023-01-31",
+    "speaker": "SYG",
+    "sentences": [
+      {
+        "sentence number": 1,
+        "text": " Yes, that would be perfect",
+        "polarity": 1.0,
+        "subjectivity": 1.0
+      },
+      {
+        "sentence number": 2,
+        "text": "",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      }
+    ],
+    "polarity": 1.0,
+    "subjectivity": 1.0,
+    "keywords": [
+      [
+        "perfect",
+        0.15831692877998726
+      ]
+    ]
+  },
+  {
+    "utterance number": 357,
+    "timestamp": "2023-01-31",
+    "speaker": "MM",
+    "sentences": [
+      {
+        "sentence number": 1,
+        "text": " Okay",
+        "polarity": 0.5,
+        "subjectivity": 0.5
+      },
+      {
+        "sentence number": 2,
+        "text": " Excellent",
+        "polarity": 1.0,
+        "subjectivity": 1.0
+      },
+      {
+        "sentence number": 3,
+        "text": " I think that -- that completely satisfies the concern",
+        "polarity": 0.1,
+        "subjectivity": 0.4
+      },
+      {
+        "sentence number": 4,
+        "text": "",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      }
+    ],
+    "polarity": 0.5333333333333333,
+    "subjectivity": 0.6333333333333333,
+    "keywords": [
+      [
+        "Excellent",
+        0.19677146788549632
+      ],
+      [
+        "satisfies the concern",
+        0.35487136790899465
+      ],
+      [
+        "concern",
+        0.44538603402402266
+      ],
+      [
+        "completely satisfies",
+        0.5286731219590494
+      ],
+      [
+        "completely",
+        0.5880798524606783
+      ],
+      [
+        "satisfies",
+        0.5880798524606783
+      ]
+    ]
+  },
+  {
+    "utterance number": 363,
+    "timestamp": "2023-01-31",
+    "speaker": "RPR",
+    "sentences": [
+      {
+        "sentence number": 1,
+        "text": " So are you happy that it does not affect the request for consensus now",
+        "polarity": 0.8,
+        "subjectivity": 1.0
+      },
+      {
+        "sentence number": 2,
+        "text": "",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      }
+    ],
+    "polarity": 0.8,
+    "subjectivity": 1.0,
+    "keywords": [
+      [
+        "affect the request",
+        0.09700399286574239
+      ],
+      [
+        "request for consensus",
+        0.09700399286574239
+      ],
+      [
+        "happy",
+        0.29736558256021506
+      ],
+      [
+        "affect",
+        0.29736558256021506
+      ],
+      [
+        "request",
+        0.29736558256021506
+      ],
+      [
+        "consensus",
+        0.29736558256021506
+      ]
+    ]
+  },
+  {
+    "utterance number": 377,
+    "timestamp": "2023-01-31",
+    "speaker": "JHD",
+    "sentences": [
+      {
+        "sentence number": 1,
+        "text": " I don\u2019t think it\u2019s a good use of time in plenary either, but I think that the discussion needs to be had",
+        "polarity": 0.7,
+        "subjectivity": 0.6000000000000001
+      },
+      {
+        "sentence number": 2,
+        "text": "",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      }
+    ],
+    "polarity": 0.7,
+    "subjectivity": 0.6000000000000001,
+    "keywords": [
+      [
+        "time in plenary",
+        0.02570861714399338
+      ],
+      [
+        "n\u2019t",
+        0.15831692877998726
+      ],
+      [
+        "good",
+        0.15831692877998726
+      ],
+      [
+        "time",
+        0.15831692877998726
+      ],
+      [
+        "plenary",
+        0.15831692877998726
+      ],
+      [
+        "discussion",
+        0.15831692877998726
+      ]
+    ]
+  }
+]

@@ -1,0 +1,488 @@
+[
+  {
+    "utterance number": 17,
+    "timestamp": "2023-03-23",
+    "speaker": "SYG",
+    "sentences": [
+      {
+        "sentence number": 1,
+        "text": " We can discuss the architecture offline",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      },
+      {
+        "sentence number": 2,
+        "text": " They are convinced it\u2019s kind of okay",
+        "polarity": 0.55,
+        "subjectivity": 0.7
+      },
+      {
+        "sentence number": 3,
+        "text": " We can look at the generated machine code",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      },
+      {
+        "sentence number": 4,
+        "text": " In the JVM if you look at this they don\u2019t use C ++stuff they have the architectural they do that basically prevents store",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      },
+      {
+        "sentence number": 5,
+        "text": " Store store reorders at the compiler and the ISA level",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      },
+      {
+        "sentence number": 6,
+        "text": "",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      }
+    ],
+    "polarity": 0.55,
+    "subjectivity": 0.7,
+    "keywords": [
+      [
+        "architecture offline",
+        0.02224207673049388
+      ],
+      [
+        "discuss the architecture",
+        0.028085128627321234
+      ],
+      [
+        "offline",
+        0.1316430426324187
+      ],
+      [
+        "discuss",
+        0.16528128097370148
+      ],
+      [
+        "architecture",
+        0.16528128097370148
+      ],
+      [
+        "store",
+        0.17267255359083192
+      ],
+      [
+        "generated machine code",
+        0.20420887443409236
+      ],
+      [
+        "ISA level",
+        0.22288785938494546
+      ],
+      [
+        "machine code",
+        0.277563238232197
+      ],
+      [
+        "JVM",
+        0.3225355067858382
+      ]
+    ]
+  },
+  {
+    "utterance number": 129,
+    "timestamp": "2023-03-23",
+    "speaker": "DE",
+    "sentences": [
+      {
+        "sentence number": 1,
+        "text": " I don\u2019t think we should resolve it today",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      },
+      {
+        "sentence number": 2,
+        "text": " It\u2019s good to have feasibility into the issue and we have to resolve it before stage 3, but I want to focus on ",
+        "polarity": 0.7,
+        "subjectivity": 0.6000000000000001
+      },
+      {
+        "sentence number": 3,
+        "text": " ",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      },
+      {
+        "sentence number": 4,
+        "text": " ",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      },
+      {
+        "sentence number": 5,
+        "text": " we have a good draft",
+        "polarity": 0.7,
+        "subjectivity": 0.6000000000000001
+      },
+      {
+        "sentence number": 6,
+        "text": " I think we do",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      }
+    ],
+    "polarity": 0.7,
+    "subjectivity": 0.6000000000000001,
+    "keywords": [
+      [
+        "resolve it today",
+        0.04803140694934997
+      ],
+      [
+        "resolve",
+        0.1493051935361994
+      ],
+      [
+        "today",
+        0.15347798906691484
+      ],
+      [
+        "n\u2019t",
+        0.20702766105254583
+      ],
+      [
+        "good",
+        0.27003864418235163
+      ],
+      [
+        "stage",
+        0.3863831009180203
+      ],
+      [
+        "good draft",
+        0.4002412237353288
+      ],
+      [
+        "feasibility",
+        0.47554495090846427
+      ],
+      [
+        "issue",
+        0.47554495090846427
+      ],
+      [
+        "focus",
+        0.47554495090846427
+      ]
+    ]
+  },
+  {
+    "utterance number": 138,
+    "timestamp": "2023-03-23",
+    "speaker": "JRL",
+    "sentences": [
+      {
+        "sentence number": 1,
+        "text": " Awesome",
+        "polarity": 1.0,
+        "subjectivity": 1.0
+      },
+      {
+        "sentence number": 2,
+        "text": " Thank you",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      },
+      {
+        "sentence number": 3,
+        "text": "",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      }
+    ],
+    "polarity": 1.0,
+    "subjectivity": 1.0,
+    "keywords": [
+      [
+        "Awesome",
+        0.05899937629682816
+      ]
+    ]
+  },
+  {
+    "utterance number": 166,
+    "timestamp": "2023-03-23",
+    "speaker": "PKA",
+    "sentences": [
+      {
+        "sentence number": 1,
+        "text": " Great",
+        "polarity": 0.8,
+        "subjectivity": 0.75
+      },
+      {
+        "sentence number": 2,
+        "text": "",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      }
+    ],
+    "polarity": 0.8,
+    "subjectivity": 0.75,
+    "keywords": [
+      [
+        "Great",
+        0.04491197687864554
+      ]
+    ]
+  },
+  {
+    "utterance number": 225,
+    "timestamp": "2023-03-23",
+    "speaker": "JGT",
+    "sentences": [
+      {
+        "sentence number": 1,
+        "text": " Ideally, to fix the 13, so we end up with one",
+        "polarity": 0.9,
+        "subjectivity": 1.0
+      },
+      {
+        "sentence number": 2,
+        "text": " We end up with one behavior across implementations and then to codify that",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      },
+      {
+        "sentence number": 3,
+        "text": "",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      }
+    ],
+    "polarity": 0.9,
+    "subjectivity": 1.0,
+    "keywords": [
+      [
+        "Ideally",
+        0.07562090863435546
+      ],
+      [
+        "end",
+        0.1408156300904874
+      ],
+      [
+        "fix",
+        0.246550513069643
+      ],
+      [
+        "behavior across implementations",
+        0.39462694305349416
+      ],
+      [
+        "behavior",
+        0.5319420725534505
+      ],
+      [
+        "implementations",
+        0.5319420725534505
+      ],
+      [
+        "codify",
+        0.5319420725534505
+      ]
+    ]
+  },
+  {
+    "utterance number": 297,
+    "timestamp": "2023-03-23",
+    "speaker": "GB",
+    "sentences": [
+      {
+        "sentence number": 1,
+        "text": " Yes",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      },
+      {
+        "sentence number": 2,
+        "text": " If we can come up with a plan to work through those concerns that\u2019s great so we don\u2019t end up in a situation where there\u2019s surprises when we seek a Stage 3",
+        "polarity": 0.8,
+        "subjectivity": 0.75
+      },
+      {
+        "sentence number": 3,
+        "text": " Would it help to bring some of these questions to the SES meeting and more important discussion into that context",
+        "polarity": 0.45,
+        "subjectivity": 0.75
+      },
+      {
+        "sentence number": 4,
+        "text": "",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      }
+    ],
+    "polarity": 0.5666666666666668,
+    "subjectivity": 0.75,
+    "keywords": [
+      [
+        "seek a Stage",
+        0.07806185883062657
+      ],
+      [
+        "Stage",
+        0.17881754828257992
+      ],
+      [
+        "SES meeting",
+        0.17962405995689565
+      ],
+      [
+        "plan to work",
+        0.19613242932716538
+      ],
+      [
+        "n\u2019t end",
+        0.19613242932716538
+      ],
+      [
+        "SES",
+        0.30586129229111825
+      ],
+      [
+        "important discussion",
+        0.3295258815075752
+      ],
+      [
+        "context",
+        0.3881970960906714
+      ],
+      [
+        "plan",
+        0.4049347717850166
+      ],
+      [
+        "work",
+        0.4049347717850166
+      ]
+    ]
+  },
+  {
+    "utterance number": 304,
+    "timestamp": "2023-03-23",
+    "speaker": "MM",
+    "sentences": [
+      {
+        "sentence number": 1,
+        "text": " Yeah",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      },
+      {
+        "sentence number": 2,
+        "text": " That all sounds good",
+        "polarity": 0.7,
+        "subjectivity": 0.6000000000000001
+      },
+      {
+        "sentence number": 3,
+        "text": "",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      }
+    ],
+    "polarity": 0.7,
+    "subjectivity": 0.6000000000000001,
+    "keywords": [
+      [
+        "Yeah",
+        0.05899937629682816
+      ],
+      [
+        "sounds good",
+        0.4456055016437946
+      ],
+      [
+        "good",
+        0.46553351027698087
+      ],
+      [
+        "sounds",
+        0.6621399683957523
+      ]
+    ]
+  },
+  {
+    "utterance number": 359,
+    "timestamp": "2023-03-23",
+    "speaker": "DE",
+    "sentences": [
+      {
+        "sentence number": 1,
+        "text": " Good it hear if anybody has concerns",
+        "polarity": 0.7,
+        "subjectivity": 0.6000000000000001
+      },
+      {
+        "sentence number": 2,
+        "text": " Now we\u2019re switching from using await to await using, there\u2019s no reason if you\u2019re not inside of the function to prohibit using await to do \u2013 clean up something called await",
+        "polarity": 0.3666666666666667,
+        "subjectivity": 0.7000000000000001
+      },
+      {
+        "sentence number": 3,
+        "text": " What do people think",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      },
+      {
+        "sentence number": 4,
+        "text": "",
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      }
+    ],
+    "polarity": 0.5333333333333333,
+    "subjectivity": 0.6500000000000001,
+    "keywords": [
+      [
+        "Good it hear",
+        0.0333357988933227
+      ],
+      [
+        "await",
+        0.11576074396470676
+      ],
+      [
+        "Good",
+        0.15468623550515587
+      ],
+      [
+        "concerns",
+        0.15468623550515587
+      ],
+      [
+        "hear",
+        0.20855361475757414
+      ],
+      [
+        "\u2019re",
+        0.25327593781927504
+      ],
+      [
+        "called await",
+        0.28413967600724116
+      ],
+      [
+        "function to prohibit",
+        0.295920446559892
+      ],
+      [
+        "\u2019re switching",
+        0.31936488702737836
+      ],
+      [
+        "clean",
+        0.38858322389642524
+      ]
+    ]
+  }
+]
