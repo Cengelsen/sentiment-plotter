@@ -231,7 +231,7 @@ for markdown_text, current_date in zip(markdown_texts, timestamps):
 
                     # Creates a sentence object
                     sentence = {
-                        "sentence number": sent_index,
+                        "sentence_number": sent_index,
                         "text": sentence_text,
                         "polarity": TextBlob(sentence_text).polarity,
                         "subjectivity": TextBlob(sentence_text).subjectivity
@@ -240,7 +240,7 @@ for markdown_text, current_date in zip(markdown_texts, timestamps):
                 
                 # Creates an utterance object
                 utterance = {
-                    "utterance number": utt_index,
+                    "utterance_number": utt_index,
                     "timestamp": current_date,
                     "sentences": sentences,  # Store list of sentences directly
                     "polarity": TextBlob(concat_utterance).polarity,
