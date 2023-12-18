@@ -1,0 +1,19 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: sentiment-plotter
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Christian
+    family-names: Engelsen
+    email: ckengelsen97@gmail.com
+repository-code: 'https://github.com/Cengelsen/sentiment-plotter'
+abstract: >-
+  This is a script that extracts discussion from the TC39's
+  meeting notes and plots the sentiment of the discussion in
+  a graph. 
+license: GPL-3.0
