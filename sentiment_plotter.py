@@ -1,16 +1,16 @@
 import re
 import os
 import glob
-from datetime import datetime
 import time
-from textblob import TextBlob 
-from sklearn.metrics.pairwise import cosine_similarity
 import matplotlib.pyplot as plt
 import tensorflow as tf
 import tensorflow_hub as hub
 import numpy as np
 import json
 import yake
+from datetime import datetime
+from textblob import TextBlob 
+from sklearn.metrics.pairwise import cosine_similarity
 
 
 # Load Universal Sentence Encoder
